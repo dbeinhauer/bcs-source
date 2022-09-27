@@ -1,0 +1,4 @@
+{
+    "kMeansNumIterationsOneRun" : [10, 20, 50, 100],
+    "kMeansNumGenerations" : [2, 4, 8]
+}

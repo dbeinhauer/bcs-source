@@ -1,0 +1,2996 @@
+Save prepared is: 0
+Edges: prepared_graph/prepared_edges.txt
+Node City: prepared_graph/prepared_combined_nodes.txt
+Cities: prepared_graph/cities.txt
+Simulation time: 5000
+Length of the edge segment: 1
+Number of closest stations: 1
+Car consumtion: 0.002
+Number of charging stations: 300
+Capacity of the charging station: 4
+Exponential parameter for city distances: 0.01
+Exponential parameter for car departures: 10
+End city distance versus population ratio: 1
+Exponential parameter for battery treshold: 20
+Car battery level mean: 0.9
+Car battery level deviation: 0.2
+Car start battery level bottom limit: 0.5
+Battery treshold to always charge: 0.5
+Battery treshold to never go charging: 0.9
+Battery tolerance level in the end of path: 0.05
+Car velocity: 1
+Waiting time of fully charge: 40
+Estimated mean battery level to charge: 0.5
+Loss difference treshold: 10
+Station number loss parameter: 100
+Battery run down loss parameter: 100
+Travel duration loss parameter: 0.001
+Battery difference loss paramter: 1
+Station waiting time paramter: 1
+Maximal number of iteration for greedy optimization: 5
+Number of station to throw away in greedy optimization: 5
+Size of the population in genetic algorithm: 10
+Number of generations in genetic algorithm: 10
+Number of best to choose automaticaly during selection in genetic algorithm: 2
+Tournament selection probability of the better model choice in genetic algorithm: 0.8
+Probability of mutation of one station in genetic algorithm: 0.01
+Variance of the population size in genetic algorithm: 2
+Number of iteration during one K-Means run: 10
+Number of generations of K-Means stations: 8
+Iteration: 0 Vertices of degree 2 merged and deleted.
+Iteration DONE
+Total number of components: 22
+Total number of components: 22
+Total number of components: 21
+Total number of components: 20
+Total number of components: 19
+Total number of components: 18
+Total number of components: 17
+Total number of components: 16
+Total number of components: 15
+Total number of components: 14
+Total number of components: 13
+Total number of components: 12
+Total number of components: 11
+Total number of components: 10
+Total number of components: 9
+Total number of components: 8
+Total number of components: 7
+Total number of components: 6
+Total number of components: 5
+Total number of components: 4
+Total number of components: 3
+Total number of components: 2
+Total number of components: 1
+Running K-Means algorithm.
+Time 100 elapsed!
+Time 200 elapsed!
+Time 300 elapsed!
+Time 400 elapsed!
+Time 500 elapsed!
+Time 600 elapsed!
+Time 700 elapsed!
+Time 800 elapsed!
+Time 900 elapsed!
+Time 1000 elapsed!
+Time 1100 elapsed!
+Time 1200 elapsed!
+Time 1300 elapsed!
+Time 1400 elapsed!
+Time 1500 elapsed!
+Time 1600 elapsed!
+Time 1700 elapsed!
+Time 1800 elapsed!
+Time 1900 elapsed!
+Time 2000 elapsed!
+Time 2100 elapsed!
+Time 2200 elapsed!
+Time 2300 elapsed!
+Time 2400 elapsed!
+Time 2500 elapsed!
+Time 2600 elapsed!
+Time 2700 elapsed!
+Time 2800 elapsed!
+Time 2900 elapsed!
+Time 3000 elapsed!
+Time 3100 elapsed!
+Time 3200 elapsed!
+Time 3300 elapsed!
+Time 3400 elapsed!
+Time 3500 elapsed!
+Time 3600 elapsed!
+Time 3700 elapsed!
+Time 3800 elapsed!
+Time 3900 elapsed!
+Time 4000 elapsed!
+Time 4100 elapsed!
+Time 4200 elapsed!
+Time 4300 elapsed!
+Time 4400 elapsed!
+Time 4500 elapsed!
+Time 4600 elapsed!
+Time 4700 elapsed!
+Time 4800 elapsed!
+Time 4900 elapsed!
+Number of waitings: 24    Avg. waiting time: 0.205368
+Number of waitings: 4    Avg. waiting time: 0.022168
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.297088
+Number of waitings: 14    Avg. waiting time: 0.0174085
+Number of waitings: 10    Avg. waiting time: 0.020716
+Number of waitings: 14    Avg. waiting time: 0.0503575
+Number of waitings: 6    Avg. waiting time: 0.0378925
+Number of waitings: 32    Avg. waiting time: 0.035056
+Number of waitings: 18    Avg. waiting time: 0.0073715
+Number of waitings: 12    Avg. waiting time: 0.043828
+Number of waitings: 152    Avg. waiting time: 0.054927
+Number of waitings: 14    Avg. waiting time: 0.092436
+Number of waitings: 8    Avg. waiting time: 0.026722
+Number of waitings: 150    Avg. waiting time: 0.065514
+Number of waitings: 16    Avg. waiting time: 0.029229
+Number of waitings: 4    Avg. waiting time: 0.0427625
+Number of waitings: 2    Avg. waiting time: 0.0359205
+Number of waitings: 96    Avg. waiting time: 0.005958
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.159455
+Number of waitings: 248    Avg. waiting time: 0.0244348
+Number of waitings: 248    Avg. waiting time: 0.048071
+Number of waitings: 30    Avg. waiting time: 0.0079265
+Number of waitings: 2    Avg. waiting time: 0.0166
+Number of waitings: 38    Avg. waiting time: 0.235539
+Number of waitings: 6    Avg. waiting time: 0.086323
+Number of waitings: 6    Avg. waiting time: 0.0656445
+Number of waitings: 24    Avg. waiting time: 0.019012
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.019144
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 118    Avg. waiting time: 0.0374705
+Number of waitings: 12    Avg. waiting time: 0.0324395
+Number of waitings: 2    Avg. waiting time: 0.236933
+Number of waitings: 14    Avg. waiting time: 0.031838
+Number of waitings: 70    Avg. waiting time: 0.0360625
+Number of waitings: 12    Avg. waiting time: 0.040832
+Number of waitings: 6    Avg. waiting time: 0.0139065
+Number of waitings: 34    Avg. waiting time: 0.0271385
+Number of waitings: 6    Avg. waiting time: 0.199938
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 3.1571
+Number of waitings: 18    Avg. waiting time: 0.138991
+Number of waitings: 48    Avg. waiting time: 0.0272665
+Number of waitings: 12    Avg. waiting time: 0.111323
+Number of waitings: 54    Avg. waiting time: 0.5688
+Number of waitings: 46    Avg. waiting time: 13.7573
+Number of waitings: 44    Avg. waiting time: 0.124067
+Number of waitings: 10    Avg. waiting time: 7.74726
+Number of waitings: 14    Avg. waiting time: 0.0336915
+Number of waitings: 20    Avg. waiting time: 0.025998
+Number of waitings: 4    Avg. waiting time: 0.06376
+Number of waitings: 330    Avg. waiting time: 4.86008
+Number of waitings: 8    Avg. waiting time: 0.0311155
+Number of waitings: 30    Avg. waiting time: 0.14672
+Number of waitings: 6    Avg. waiting time: 0.104415
+Number of waitings: 12    Avg. waiting time: 0.0140165
+Number of waitings: 12    Avg. waiting time: 1.17968
+Number of waitings: 14    Avg. waiting time: 0.013765
+Number of waitings: 4    Avg. waiting time: 1.63191
+Number of waitings: 6    Avg. waiting time: 0.995857
+Number of waitings: 24    Avg. waiting time: 0.048373
+Number of waitings: 26    Avg. waiting time: 0.0162115
+Number of waitings: 50    Avg. waiting time: 0.0578345
+Number of waitings: 66    Avg. waiting time: 0.088645
+Number of waitings: 18    Avg. waiting time: 7.74627
+Number of waitings: 20    Avg. waiting time: 0.150892
+Number of waitings: 286    Avg. waiting time: 10.3333
+Number of waitings: 122    Avg. waiting time: 0.189774
+Number of waitings: 18    Avg. waiting time: 0.0126185
+Number of waitings: 6    Avg. waiting time: 7.18965
+Number of waitings: 402    Avg. waiting time: 1.48071
+Number of waitings: 8    Avg. waiting time: 0.0435955
+Number of waitings: 18    Avg. waiting time: 0.039898
+Number of waitings: 4    Avg. waiting time: 0.021356
+Number of waitings: 2    Avg. waiting time: 0.053158
+Number of waitings: 18    Avg. waiting time: 0.0431725
+Number of waitings: 16    Avg. waiting time: 0.006501
+Number of waitings: 4    Avg. waiting time: 0.053642
+Number of waitings: 16    Avg. waiting time: 0.046526
+Number of waitings: 120    Avg. waiting time: 12.2287
+Number of waitings: 4    Avg. waiting time: 0.0705335
+Number of waitings: 30    Avg. waiting time: 0.028006
+Number of waitings: 2    Avg. waiting time: 0.55315
+Number of waitings: 16    Avg. waiting time: 1.63889
+Number of waitings: 4    Avg. waiting time: 3.52248
+Number of waitings: 8    Avg. waiting time: 0.101102
+Number of waitings: 78    Avg. waiting time: 0.002388
+Number of waitings: 2    Avg. waiting time: 0.0085235
+Number of waitings: 2    Avg. waiting time: 2.57532
+Number of waitings: 12    Avg. waiting time: 0.0653495
+Number of waitings: 36    Avg. waiting time: 0.020782
+Number of waitings: 38    Avg. waiting time: 0.0126715
+Number of waitings: 6    Avg. waiting time: 0.0396095
+Number of waitings: 2    Avg. waiting time: 0.004241
+Number of waitings: 10    Avg. waiting time: 0.0080365
+Number of waitings: 2    Avg. waiting time: 0.151059
+Number of waitings: 50    Avg. waiting time: 0.014307
+Number of waitings: 36    Avg. waiting time: 0.0024645
+Number of waitings: 16    Avg. waiting time: 0.014669
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.019646
+Number of waitings: 2    Avg. waiting time: 0.145754
+Number of waitings: 10    Avg. waiting time: 3.41819
+Number of waitings: 34    Avg. waiting time: 3.99122
+Number of waitings: 30    Avg. waiting time: 1.36372
+Number of waitings: 130    Avg. waiting time: 0.085786
+Number of waitings: 54    Avg. waiting time: 0.0342675
+Number of waitings: 46    Avg. waiting time: 0.98395
+Number of waitings: 136    Avg. waiting time: 10.8499
+Number of waitings: 302    Avg. waiting time: 0.0975082
+Number of waitings: 60    Avg. waiting time: 0.37032
+Number of waitings: 6    Avg. waiting time: 7.60099
+Number of waitings: 20    Avg. waiting time: 0.171303
+Number of waitings: 16    Avg. waiting time: 0.009488
+Number of waitings: 2    Avg. waiting time: 0.091138
+Number of waitings: 8    Avg. waiting time: 0.043474
+Number of waitings: 78    Avg. waiting time: 0.102326
+Number of waitings: 46    Avg. waiting time: 0.0647155
+Number of waitings: 394    Avg. waiting time: 2.16093
+Number of waitings: 4    Avg. waiting time: 0.0075555
+Number of waitings: 92    Avg. waiting time: 0.149751
+Number of waitings: 10    Avg. waiting time: 0.201773
+Number of waitings: 524    Avg. waiting time: 0.289563
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.0358705
+Number of waitings: 58    Avg. waiting time: 0.160367
+Number of waitings: 28    Avg. waiting time: 0.085399
+Number of waitings: 264    Avg. waiting time: 0.033612
+Number of waitings: 4    Avg. waiting time: 0.929825
+Number of waitings: 256    Avg. waiting time: 0.053988
+Number of waitings: 546    Avg. waiting time: 6.73536
+Number of waitings: 12    Avg. waiting time: 0.0852875
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.116925
+Number of waitings: 8    Avg. waiting time: 0.053871
+Number of waitings: 2    Avg. waiting time: 0.089737
+Number of waitings: 32    Avg. waiting time: 0.109083
+Number of waitings: 6    Avg. waiting time: 0.0171395
+Number of waitings: 22    Avg. waiting time: 0.175134
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.149095
+Number of waitings: 12    Avg. waiting time: 0.233703
+Number of waitings: 34    Avg. waiting time: 3.56335
+Number of waitings: 74    Avg. waiting time: 0.54785
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.342595
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 178    Avg. waiting time: 0.102658
+Number of waitings: 6    Avg. waiting time: 0.0273045
+Number of waitings: 4    Avg. waiting time: 0.174397
+Number of waitings: 56    Avg. waiting time: 6.82019
+Number of waitings: 250    Avg. waiting time: 0.045705
+Number of waitings: 38    Avg. waiting time: 0.101263
+Number of waitings: 2    Avg. waiting time: 3.99343
+Number of waitings: 12    Avg. waiting time: 0.0096355
+Number of waitings: 2    Avg. waiting time: 0.0343505
+Number of waitings: 252    Avg. waiting time: 40.664
+Number of waitings: 22    Avg. waiting time: 0.128023
+Number of waitings: 18    Avg. waiting time: 0.0213155
+Number of waitings: 20    Avg. waiting time: 0.148117
+Number of waitings: 6    Avg. waiting time: 0.032425
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.056061
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 7.16465
+Number of waitings: 430    Avg. waiting time: 0.108685
+Number of waitings: 168    Avg. waiting time: 2.05202
+Number of waitings: 6    Avg. waiting time: 0.110413
+Number of waitings: 378    Avg. waiting time: 0.179823
+Number of waitings: 24    Avg. waiting time: 0.063999
+Number of waitings: 8    Avg. waiting time: 4.14908
+Number of waitings: 50    Avg. waiting time: 0.132681
+Number of waitings: 2    Avg. waiting time: 0.100157
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 362    Avg. waiting time: 0.0361745
+Number of waitings: 4    Avg. waiting time: 2.97715
+Number of waitings: 48    Avg. waiting time: 1.35646
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.10569
+Number of waitings: 18    Avg. waiting time: 5.10837
+Number of waitings: 22    Avg. waiting time: 0.017806
+Number of waitings: 230    Avg. waiting time: 0.0075255
+Number of waitings: 8    Avg. waiting time: 0.0234485
+Number of waitings: 12    Avg. waiting time: 0.0952485
+Number of waitings: 36    Avg. waiting time: 0.0326885
+Number of waitings: 12    Avg. waiting time: 0.025326
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.009662
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 198    Avg. waiting time: 6.52665
+Number of waitings: 34    Avg. waiting time: 2.84247
+Number of waitings: 162    Avg. waiting time: 0.0411745
+Number of waitings: 2    Avg. waiting time: 0.0410995
+Number of waitings: 482    Avg. waiting time: 0.527207
+Number of waitings: 308    Avg. waiting time: 0.108235
+Number of waitings: 40    Avg. waiting time: 0.156406
+Number of waitings: 6    Avg. waiting time: 0.015615
+Number of waitings: 20    Avg. waiting time: 10.011
+Number of waitings: 42    Avg. waiting time: 0.058351
+Number of waitings: 6    Avg. waiting time: 0.0080215
+Number of waitings: 6    Avg. waiting time: 0.0137595
+Number of waitings: 82    Avg. waiting time: 0.038206
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 194    Avg. waiting time: 0.014152
+Number of waitings: 8    Avg. waiting time: 0.252201
+Number of waitings: 54    Avg. waiting time: 0.087497
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.0727105
+Number of waitings: 66    Avg. waiting time: 0.0491055
+Number of waitings: 956    Avg. waiting time: 26.8694
+Number of waitings: 10    Avg. waiting time: 1.40602
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0115465
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 338    Avg. waiting time: 7.77318
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.147721
+Number of waitings: 102    Avg. waiting time: 1.40676
+Number of waitings: 12    Avg. waiting time: 0.0201395
+Number of waitings: 8    Avg. waiting time: 0.0382435
+Number of waitings: 4    Avg. waiting time: 0.0363765
+Number of waitings: 16    Avg. waiting time: 0.0549255
+Number of waitings: 30    Avg. waiting time: 0.0096485
+Number of waitings: 148    Avg. waiting time: 11.1337
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 2.08442
+Number of waitings: 30    Avg. waiting time: 0.0229675
+Number of waitings: 44    Avg. waiting time: 0.04795
+Number of waitings: 2    Avg. waiting time: 0.0183455
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.011155
+Number of waitings: 68    Avg. waiting time: 1.49829
+Number of waitings: 504    Avg. waiting time: 0.0941763
+Number of waitings: 88    Avg. waiting time: 0.145809
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 170    Avg. waiting time: 0.978937
+Number of waitings: 16    Avg. waiting time: 0.118029
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 6.53751
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.139222
+Number of waitings: 294    Avg. waiting time: 0.074696
+Number of waitings: 8    Avg. waiting time: 0.029009
+Number of waitings: 24    Avg. waiting time: 0.0236985
+Number of waitings: 2    Avg. waiting time: 0.0349445
+Number of waitings: 68    Avg. waiting time: 0.0191425
+Number of waitings: 410    Avg. waiting time: 4.70751
+Number of waitings: 12    Avg. waiting time: 5.67451
+Number of waitings: 8    Avg. waiting time: 0.39254
+Number of waitings: 4    Avg. waiting time: 0.011998
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 236    Avg. waiting time: 0.077065
+Number of waitings: 8    Avg. waiting time: 0.031467
+Number of waitings: 330    Avg. waiting time: 7.39388
+Number of waitings: 20    Avg. waiting time: 0.226061
+Number of waitings: 66    Avg. waiting time: 3.65194
+Number of waitings: 10    Avg. waiting time: 0.0291015
+Number of waitings: 68    Avg. waiting time: 0.0056855
+Number of waitings: 112    Avg. waiting time: 0.756661
+Number of waitings: 4    Avg. waiting time: 0.0247255
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.038443
+Number of waitings: 154    Avg. waiting time: 0.122361
+Number of waitings: 2    Avg. waiting time: 2.43475
+Number of waitings: 220    Avg. waiting time: 0.007058
+Number of waitings: 222    Avg. waiting time: 0.107419
+Number of waitings: 2    Avg. waiting time: 0.701665
+Number of waitings: 130    Avg. waiting time: 0.0485545
+Number of waitings: 88    Avg. waiting time: 0.0465285
+Number of waitings: 10    Avg. waiting time: 0.260528
+Number of waitings: 22    Avg. waiting time: 0.201521
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0247175
+Number of waitings: 4    Avg. waiting time: 0.114849
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.0731215
+Number of waitings: 18    Avg. waiting time: 0.065117
+Number of waitings: 12    Avg. waiting time: 0.0080285
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.0909735
+Number of waitings: 2    Avg. waiting time: 0.0150715
+Number of waitings: 24    Avg. waiting time: 0.0652145
+Number of waitings: 2    Avg. waiting time: 0.0235015
+Number of waitings: 192    Avg. waiting time: 0.132429
+Number of waitings: 162    Avg. waiting time: 0.0152015
+Number of waitings: 28    Avg. waiting time: 0.0485605
+Number of waitings: 2    Avg. waiting time: 2.66744
+Number of waitings: 6    Avg. waiting time: 0.118172
+Number of waitings: 6    Avg. waiting time: 0.402646
+Number of waitings: 392    Avg. waiting time: 0.281733
+Number of stations: 300
+Number of run down batteries: 3740
+Average traveling duration: 100.773 minutes
+Average battery difference between start and end: -0.497445
+Average waiting times in charging station: 3.59142 minutes
+Number of vehicles which reached the end: 87968
+Number of vehicles which didn't finish before end of simulation: 2064
+Total number of used charging stations: 260
+Total number of charging stations usage: 17698
+Run down batteries during going to station: 489
+Total number of vehicles which didn't reach the end: 5804
+------------------------------------------------------
+Model loss: 404003
+
+Current loss is: 404003
+Time 100 elapsed!
+Time 200 elapsed!
+Time 300 elapsed!
+Time 400 elapsed!
+Time 500 elapsed!
+Time 600 elapsed!
+Time 700 elapsed!
+Time 800 elapsed!
+Time 900 elapsed!
+Time 1000 elapsed!
+Time 1100 elapsed!
+Time 1200 elapsed!
+Time 1300 elapsed!
+Time 1400 elapsed!
+Time 1500 elapsed!
+Time 1600 elapsed!
+Time 1700 elapsed!
+Time 1800 elapsed!
+Time 1900 elapsed!
+Time 2000 elapsed!
+Time 2100 elapsed!
+Time 2200 elapsed!
+Time 2300 elapsed!
+Time 2400 elapsed!
+Time 2500 elapsed!
+Time 2600 elapsed!
+Time 2700 elapsed!
+Time 2800 elapsed!
+Time 2900 elapsed!
+Time 3000 elapsed!
+Time 3100 elapsed!
+Time 3200 elapsed!
+Time 3300 elapsed!
+Time 3400 elapsed!
+Time 3500 elapsed!
+Time 3600 elapsed!
+Time 3700 elapsed!
+Time 3800 elapsed!
+Time 3900 elapsed!
+Time 4000 elapsed!
+Time 4100 elapsed!
+Time 4200 elapsed!
+Time 4300 elapsed!
+Time 4400 elapsed!
+Time 4500 elapsed!
+Time 4600 elapsed!
+Time 4700 elapsed!
+Time 4800 elapsed!
+Time 4900 elapsed!
+Number of waitings: 66    Avg. waiting time: 0.064952
+Number of waitings: 6    Avg. waiting time: 0.024896
+Number of waitings: 6    Avg. waiting time: 0.0802
+Number of waitings: 2    Avg. waiting time: 0.073329
+Number of waitings: 60    Avg. waiting time: 0.111611
+Number of waitings: 20    Avg. waiting time: 0.0140095
+Number of waitings: 18    Avg. waiting time: 0.01519
+Number of waitings: 10    Avg. waiting time: 0.099463
+Number of waitings: 8    Avg. waiting time: 0.044103
+Number of waitings: 14    Avg. waiting time: 0.0644755
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.027761
+Number of waitings: 172    Avg. waiting time: 0.05561
+Number of waitings: 2    Avg. waiting time: 0.085146
+Number of waitings: 6    Avg. waiting time: 0.058045
+Number of waitings: 16    Avg. waiting time: 0.065514
+Number of waitings: 284    Avg. waiting time: 0.0178935
+Number of waitings: 28    Avg. waiting time: 0.612635
+Number of waitings: 2    Avg. waiting time: 0.056073
+Number of waitings: 154    Avg. waiting time: 1.42948
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 246    Avg. waiting time: 0.127858
+Number of waitings: 2    Avg. waiting time: 0.0131435
+Number of waitings: 22    Avg. waiting time: 0.0875955
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 100    Avg. waiting time: 0.131809
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.038176
+Number of waitings: 20    Avg. waiting time: 0.065106
+Number of waitings: 18    Avg. waiting time: 0.219132
+Number of waitings: 10    Avg. waiting time: 0.019144
+Number of waitings: 2    Avg. waiting time: 0.0125485
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 348    Avg. waiting time: 0.18398
+Number of waitings: 4    Avg. waiting time: 0.66512
+Number of waitings: 4    Avg. waiting time: 0.0791485
+Number of waitings: 12    Avg. waiting time: 0.10663
+Number of waitings: 36    Avg. waiting time: 0.0104915
+Number of waitings: 10    Avg. waiting time: 0.077953
+Number of waitings: 174    Avg. waiting time: 0.0123235
+Number of waitings: 92    Avg. waiting time: 0.0275625
+Number of waitings: 152    Avg. waiting time: 0.148888
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.039599
+Number of waitings: 56    Avg. waiting time: 0.017921
+Number of waitings: 2    Avg. waiting time: 0.08763
+Number of waitings: 24    Avg. waiting time: 0.0716905
+Number of waitings: 802    Avg. waiting time: 6.65466
+Number of waitings: 30    Avg. waiting time: 0.0441135
+Number of waitings: 16    Avg. waiting time: 0.029009
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.0241915
+Number of waitings: 2    Avg. waiting time: 0.089558
+Number of waitings: 4    Avg. waiting time: 0.15353
+Number of waitings: 4    Avg. waiting time: 0.0649545
+Number of waitings: 2    Avg. waiting time: 0.090834
+Number of waitings: 36    Avg. waiting time: 0.0597285
+Number of waitings: 14    Avg. waiting time: 0.0140165
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.012821
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.0154305
+Number of waitings: 40    Avg. waiting time: 0.061488
+Number of waitings: 32    Avg. waiting time: 0.149276
+Number of waitings: 42    Avg. waiting time: 0.105645
+Number of waitings: 14    Avg. waiting time: 0.0092795
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.127085
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 252    Avg. waiting time: 0.15911
+Number of waitings: 6    Avg. waiting time: 0.0077795
+Number of waitings: 30    Avg. waiting time: 0.030464
+Number of waitings: 600    Avg. waiting time: 2.09738
+Number of waitings: 10    Avg. waiting time: 0.025754
+Number of waitings: 8    Avg. waiting time: 0.039898
+Number of waitings: 10    Avg. waiting time: 0.93492
+Number of waitings: 6    Avg. waiting time: 0.0416395
+Number of waitings: 2    Avg. waiting time: 0.0130915
+Number of waitings: 192    Avg. waiting time: 0.045622
+Number of waitings: 112    Avg. waiting time: 0.053642
+Number of waitings: 24    Avg. waiting time: 0.026887
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.178287
+Number of waitings: 46    Avg. waiting time: 0.105101
+Number of waitings: 16    Avg. waiting time: 0.016193
+Number of waitings: 196    Avg. waiting time: 3.78006
+Number of waitings: 14    Avg. waiting time: 0.0284105
+Number of waitings: 28    Avg. waiting time: 0.0237775
+Number of waitings: 38    Avg. waiting time: 0.064758
+Number of waitings: 28    Avg. waiting time: 0.13297
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 42    Avg. waiting time: 0.150137
+Number of waitings: 20    Avg. waiting time: 0.96778
+Number of waitings: 24    Avg. waiting time: 0.0190995
+Number of waitings: 2    Avg. waiting time: 0.195562
+Number of waitings: 6    Avg. waiting time: 0.0184465
+Number of waitings: 20    Avg. waiting time: 0.368039
+Number of waitings: 2    Avg. waiting time: 0.0321385
+Number of waitings: 12    Avg. waiting time: 0.005599
+Number of waitings: 6    Avg. waiting time: 0.0131995
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 28    Avg. waiting time: 0.0195835
+Number of waitings: 4    Avg. waiting time: 0.160519
+Number of waitings: 58    Avg. waiting time: 2.67295
+Number of waitings: 28    Avg. waiting time: 0.178243
+Number of waitings: 24    Avg. waiting time: 0.0178255
+Number of waitings: 36    Avg. waiting time: 0.0481775
+Number of waitings: 32    Avg. waiting time: 0.402352
+Number of waitings: 52    Avg. waiting time: 2.08179
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 122    Avg. waiting time: 0.0387965
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.0367405
+Number of waitings: 4    Avg. waiting time: 0.011066
+Number of waitings: 14    Avg. waiting time: 0.11485
+Number of waitings: 214    Avg. waiting time: 0.033085
+Number of waitings: 224    Avg. waiting time: 0.225628
+Number of waitings: 50    Avg. waiting time: 0.198876
+Number of waitings: 28    Avg. waiting time: 0.465909
+Number of waitings: 6    Avg. waiting time: 0.248355
+Number of waitings: 144    Avg. waiting time: 0.14867
+Number of waitings: 18    Avg. waiting time: 0.104415
+Number of waitings: 204    Avg. waiting time: 0.0621295
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.173982
+Number of waitings: 56    Avg. waiting time: 0.128805
+Number of waitings: 24    Avg. waiting time: 0.0834135
+Number of waitings: 210    Avg. waiting time: 0.0805575
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 96    Avg. waiting time: 0.0797525
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.0104685
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.116925
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.133869
+Number of waitings: 32    Avg. waiting time: 0.109083
+Number of waitings: 12    Avg. waiting time: 0.0171395
+Number of waitings: 214    Avg. waiting time: 0.13315
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 36    Avg. waiting time: 0.0249625
+Number of waitings: 38    Avg. waiting time: 0.0287405
+Number of waitings: 46    Avg. waiting time: 0.0638255
+Number of waitings: 4    Avg. waiting time: 0.223773
+Number of waitings: 56    Avg. waiting time: 0.104756
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 2.67099
+Number of waitings: 20    Avg. waiting time: 0.009479
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 46    Avg. waiting time: 0.003728
+Number of waitings: 26    Avg. waiting time: 0.10483
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.041865
+Number of waitings: 4    Avg. waiting time: 0.0688845
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 28    Avg. waiting time: 0.037758
+Number of waitings: 2    Avg. waiting time: 0.067714
+Number of waitings: 10    Avg. waiting time: 0.083976
+Number of waitings: 12    Avg. waiting time: 0.032425
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.061216
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 82    Avg. waiting time: 1.50562
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 716    Avg. waiting time: 0.351656
+Number of waitings: 168    Avg. waiting time: 0.07876
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.006679
+Number of waitings: 26    Avg. waiting time: 0.0560065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 70    Avg. waiting time: 0.182146
+Number of waitings: 40    Avg. waiting time: 0.079103
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.147233
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 52    Avg. waiting time: 0.0356065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 42    Avg. waiting time: 0.17089
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.064778
+Number of waitings: 40    Avg. waiting time: 0.00744
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.027075
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 522    Avg. waiting time: 7.25345
+Number of waitings: 90    Avg. waiting time: 0.0222785
+Number of waitings: 172    Avg. waiting time: 0.0741285
+Number of waitings: 14    Avg. waiting time: 0.179818
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 110    Avg. waiting time: 0.231196
+Number of waitings: 210    Avg. waiting time: 0.94033
+Number of waitings: 4    Avg. waiting time: 0.008653
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 40    Avg. waiting time: 0.10605
+Number of waitings: 4    Avg. waiting time: 0.0080215
+Number of waitings: 14    Avg. waiting time: 0.177498
+Number of waitings: 66    Avg. waiting time: 0.0347275
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 52    Avg. waiting time: 0.0233375
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 48    Avg. waiting time: 0.032802
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 32    Avg. waiting time: 0.0978895
+Number of waitings: 144    Avg. waiting time: 0.0236645
+Number of waitings: 856    Avg. waiting time: 21.7895
+Number of waitings: 214    Avg. waiting time: 0.135925
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.133767
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 304    Avg. waiting time: 0.014366
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.136741
+Number of waitings: 224    Avg. waiting time: 0.48658
+Number of waitings: 8    Avg. waiting time: 0.00849
+Number of waitings: 20    Avg. waiting time: 0.0236005
+Number of waitings: 30    Avg. waiting time: 0.0872875
+Number of waitings: 24    Avg. waiting time: 0.085165
+Number of waitings: 18    Avg. waiting time: 0.015724
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.034336
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 32    Avg. waiting time: 0.0559175
+Number of waitings: 76    Avg. waiting time: 0.0138375
+Number of waitings: 16    Avg. waiting time: 0.105417
+Number of waitings: 12    Avg. waiting time: 0.12402
+Number of waitings: 12    Avg. waiting time: 0.011155
+Number of waitings: 52    Avg. waiting time: 0.148539
+Number of waitings: 46    Avg. waiting time: 0.0452
+Number of waitings: 100    Avg. waiting time: 0.013762
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 1.47963
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 66    Avg. waiting time: 0.070662
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 96    Avg. waiting time: 0.087352
+Number of waitings: 6    Avg. waiting time: 0.272031
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 148    Avg. waiting time: 0.14949
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.0162465
+Number of waitings: 2    Avg. waiting time: 0.0899575
+Number of waitings: 2    Avg. waiting time: 0.017358
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 166    Avg. waiting time: 0.054349
+Number of waitings: 2    Avg. waiting time: 0.0307605
+Number of waitings: 54    Avg. waiting time: 0.0127315
+Number of waitings: 40    Avg. waiting time: 0.0283405
+Number of waitings: 44    Avg. waiting time: 0.102201
+Number of waitings: 4    Avg. waiting time: 0.0291015
+Number of waitings: 60    Avg. waiting time: 0.177036
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.096415
+Number of waitings: 198    Avg. waiting time: 0.108235
+Number of waitings: 282    Avg. waiting time: 0.0387795
+Number of waitings: 16    Avg. waiting time: 0.321785
+Number of waitings: 18    Avg. waiting time: 0.007058
+Number of waitings: 52    Avg. waiting time: 0.122361
+Number of waitings: 612    Avg. waiting time: 0.737446
+Number of waitings: 78    Avg. waiting time: 0.0051375
+Number of waitings: 318    Avg. waiting time: 0.101931
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 24    Avg. waiting time: 0.197238
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 92    Avg. waiting time: 0.097366
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.026691
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.09037
+Number of waitings: 6    Avg. waiting time: 0.0129165
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 38    Avg. waiting time: 0.031667
+Number of waitings: 216    Avg. waiting time: 0.210048
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.783865
+Number of waitings: 6    Avg. waiting time: 0.139895
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 54    Avg. waiting time: 0.002207
+Number of stations: 300
+Number of run down batteries: 3995
+Average traveling duration: 100.901 minutes
+Average battery difference between start and end: -0.497423
+Average waiting times in charging station: 2.14395 minutes
+Number of vehicles which reached the end: 88509
+Number of vehicles which didn't finish before end of simulation: 2053
+Total number of used charging stations: 216
+Total number of charging stations usage: 15100
+Run down batteries during going to station: 537
+Total number of vehicles which didn't reach the end: 6048
+------------------------------------------------------
+Model loss: 429502
+
+Current loss is: 429502
+Time 100 elapsed!
+Time 200 elapsed!
+Time 300 elapsed!
+Time 400 elapsed!
+Time 500 elapsed!
+Time 600 elapsed!
+Time 700 elapsed!
+Time 800 elapsed!
+Time 900 elapsed!
+Time 1000 elapsed!
+Time 1100 elapsed!
+Time 1200 elapsed!
+Time 1300 elapsed!
+Time 1400 elapsed!
+Time 1500 elapsed!
+Time 1600 elapsed!
+Time 1700 elapsed!
+Time 1800 elapsed!
+Time 1900 elapsed!
+Time 2000 elapsed!
+Time 2100 elapsed!
+Time 2200 elapsed!
+Time 2300 elapsed!
+Time 2400 elapsed!
+Time 2500 elapsed!
+Time 2600 elapsed!
+Time 2700 elapsed!
+Time 2800 elapsed!
+Time 2900 elapsed!
+Time 3000 elapsed!
+Time 3100 elapsed!
+Time 3200 elapsed!
+Time 3300 elapsed!
+Time 3400 elapsed!
+Time 3500 elapsed!
+Time 3600 elapsed!
+Time 3700 elapsed!
+Time 3800 elapsed!
+Time 3900 elapsed!
+Time 4000 elapsed!
+Time 4100 elapsed!
+Time 4200 elapsed!
+Time 4300 elapsed!
+Time 4400 elapsed!
+Time 4500 elapsed!
+Time 4600 elapsed!
+Time 4700 elapsed!
+Time 4800 elapsed!
+Time 4900 elapsed!
+Number of waitings: 60    Avg. waiting time: 0.064952
+Number of waitings: 2    Avg. waiting time: 0.024896
+Number of waitings: 16    Avg. waiting time: 0.0802
+Number of waitings: 2    Avg. waiting time: 0.073329
+Number of waitings: 2    Avg. waiting time: 0.0132405
+Number of waitings: 18    Avg. waiting time: 0.0140095
+Number of waitings: 16    Avg. waiting time: 0.01519
+Number of waitings: 4    Avg. waiting time: 0.099463
+Number of waitings: 2    Avg. waiting time: 0.044103
+Number of waitings: 28    Avg. waiting time: 0.0644755
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.027761
+Number of waitings: 58    Avg. waiting time: 0.05561
+Number of waitings: 10    Avg. waiting time: 0.024084
+Number of waitings: 6    Avg. waiting time: 0.0424475
+Number of waitings: 12    Avg. waiting time: 0.077637
+Number of waitings: 10    Avg. waiting time: 0.015199
+Number of waitings: 22    Avg. waiting time: 0.612635
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 170    Avg. waiting time: 0.115305
+Number of waitings: 18    Avg. waiting time: 0.081076
+Number of waitings: 22    Avg. waiting time: 0.169446
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 140    Avg. waiting time: 0.131809
+Number of waitings: 2    Avg. waiting time: 0.054045
+Number of waitings: 26    Avg. waiting time: 0.020658
+Number of waitings: 22    Avg. waiting time: 0.065106
+Number of waitings: 6    Avg. waiting time: 0.009732
+Number of waitings: 10    Avg. waiting time: 0.019144
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 528    Avg. waiting time: 0.239428
+Number of waitings: 6    Avg. waiting time: 0.033041
+Number of waitings: 14    Avg. waiting time: 0.0791485
+Number of waitings: 6    Avg. waiting time: 0.10663
+Number of waitings: 56    Avg. waiting time: 0.0104915
+Number of waitings: 16    Avg. waiting time: 0.209423
+Number of waitings: 116    Avg. waiting time: 0.0123235
+Number of waitings: 174    Avg. waiting time: 0.0275625
+Number of waitings: 414    Avg. waiting time: 0.197588
+Number of waitings: 6    Avg. waiting time: 0.0731115
+Number of waitings: 2    Avg. waiting time: 0.0204455
+Number of waitings: 6    Avg. waiting time: 0.039599
+Number of waitings: 36    Avg. waiting time: 0.017921
+Number of waitings: 18    Avg. waiting time: 0.057516
+Number of waitings: 48    Avg. waiting time: 0.0259415
+Number of waitings: 798    Avg. waiting time: 3.811
+Number of waitings: 4    Avg. waiting time: 2.67099
+Number of waitings: 20    Avg. waiting time: 0.029009
+Number of waitings: 8    Avg. waiting time: 0.019238
+Number of waitings: 16    Avg. waiting time: 0.0241915
+Number of waitings: 2    Avg. waiting time: 0.089558
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0649545
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 232    Avg. waiting time: 0.0859985
+Number of waitings: 8    Avg. waiting time: 0.0140165
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.0154305
+Number of waitings: 34    Avg. waiting time: 0.061488
+Number of waitings: 238    Avg. waiting time: 0.899329
+Number of waitings: 42    Avg. waiting time: 0.094451
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.141686
+Number of waitings: 4    Avg. waiting time: 0.127085
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 256    Avg. waiting time: 0.15911
+Number of waitings: 8    Avg. waiting time: 0.0077795
+Number of waitings: 20    Avg. waiting time: 0.030464
+Number of waitings: 536    Avg. waiting time: 0.605092
+Number of waitings: 6    Avg. waiting time: 0.025754
+Number of waitings: 10    Avg. waiting time: 0.039898
+Number of waitings: 14    Avg. waiting time: 0.93492
+Number of waitings: 4    Avg. waiting time: 0.0416395
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 402    Avg. waiting time: 0.045622
+Number of waitings: 10    Avg. waiting time: 0.053642
+Number of waitings: 6    Avg. waiting time: 0.026887
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.178287
+Number of waitings: 42    Avg. waiting time: 0.105101
+Number of waitings: 16    Avg. waiting time: 0.016193
+Number of waitings: 154    Avg. waiting time: 3.24005
+Number of waitings: 12    Avg. waiting time: 0.0284105
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 78    Avg. waiting time: 0.064758
+Number of waitings: 18    Avg. waiting time: 0.13297
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 38    Avg. waiting time: 0.020782
+Number of waitings: 30    Avg. waiting time: 0.96778
+Number of waitings: 22    Avg. waiting time: 0.0190995
+Number of waitings: 6    Avg. waiting time: 0.195561
+Number of waitings: 4    Avg. waiting time: 0.0178935
+Number of waitings: 312    Avg. waiting time: 0.0487406
+Number of waitings: 2    Avg. waiting time: 0.0321385
+Number of waitings: 16    Avg. waiting time: 0.005599
+Number of waitings: 24    Avg. waiting time: 0.0131995
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.0195835
+Number of waitings: 50    Avg. waiting time: 0.0618335
+Number of waitings: 76    Avg. waiting time: 1.06918
+Number of waitings: 40    Avg. waiting time: 0.178243
+Number of waitings: 20    Avg. waiting time: 0.0178255
+Number of waitings: 54    Avg. waiting time: 0.0481775
+Number of waitings: 46    Avg. waiting time: 0.402352
+Number of waitings: 40    Avg. waiting time: 1.24907
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 160    Avg. waiting time: 0.0387965
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.0367405
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.11485
+Number of waitings: 16    Avg. waiting time: 0.033085
+Number of waitings: 194    Avg. waiting time: 0.019019
+Number of waitings: 58    Avg. waiting time: 0.310756
+Number of waitings: 350    Avg. waiting time: 0.46591
+Number of waitings: 2    Avg. waiting time: 0.248355
+Number of waitings: 116    Avg. waiting time: 0.14867
+Number of waitings: 6    Avg. waiting time: 0.104415
+Number of waitings: 408    Avg. waiting time: 0.231196
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.192552
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 26    Avg. waiting time: 0.0975015
+Number of waitings: 246    Avg. waiting time: 0.0805575
+Number of waitings: 4    Avg. waiting time: 0.0174295
+Number of waitings: 104    Avg. waiting time: 0.0797525
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.0104685
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.116925
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.133869
+Number of waitings: 22    Avg. waiting time: 0.109083
+Number of waitings: 4    Avg. waiting time: 0.0171395
+Number of waitings: 114    Avg. waiting time: 0.133151
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 94    Avg. waiting time: 0.07547
+Number of waitings: 58    Avg. waiting time: 0.0287405
+Number of waitings: 66    Avg. waiting time: 0.0638255
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 138    Avg. waiting time: 0.233885
+Number of waitings: 4    Avg. waiting time: 0.039935
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.042316
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 218    Avg. waiting time: 0.003728
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.041865
+Number of waitings: 2    Avg. waiting time: 0.0688845
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 26    Avg. waiting time: 0.037758
+Number of waitings: 8    Avg. waiting time: 0.067714
+Number of waitings: 232    Avg. waiting time: 0.083976
+Number of waitings: 8    Avg. waiting time: 0.032425
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.061216
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 102    Avg. waiting time: 1.50562
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 562    Avg. waiting time: 0.0449136
+Number of waitings: 160    Avg. waiting time: 0.07876
+Number of waitings: 2    Avg. waiting time: 0.006485
+Number of waitings: 2    Avg. waiting time: 0.006679
+Number of waitings: 32    Avg. waiting time: 0.0560065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 38    Avg. waiting time: 0.079103
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.147234
+Number of waitings: 2    Avg. waiting time: 0.03469
+Number of waitings: 48    Avg. waiting time: 0.0356065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 32    Avg. waiting time: 0.17089
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.064778
+Number of waitings: 36    Avg. waiting time: 0.00744
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.03563
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 742    Avg. waiting time: 9.39063
+Number of waitings: 50    Avg. waiting time: 0.0222785
+Number of waitings: 178    Avg. waiting time: 0.0741285
+Number of waitings: 10    Avg. waiting time: 0.179819
+Number of waitings: 2    Avg. waiting time: 0.163428
+Number of waitings: 242    Avg. waiting time: 0.039877
+Number of waitings: 250    Avg. waiting time: 0.94033
+Number of waitings: 2    Avg. waiting time: 0.008653
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 46    Avg. waiting time: 0.10605
+Number of waitings: 4    Avg. waiting time: 0.0080215
+Number of waitings: 10    Avg. waiting time: 0.177498
+Number of waitings: 72    Avg. waiting time: 0.0347275
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 50    Avg. waiting time: 0.043342
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 76    Avg. waiting time: 0.032802
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.185626
+Number of waitings: 100    Avg. waiting time: 0.0236645
+Number of waitings: 692    Avg. waiting time: 13.579
+Number of waitings: 8    Avg. waiting time: 0.135925
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.12402
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 246    Avg. waiting time: 0.014366
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.136741
+Number of waitings: 90    Avg. waiting time: 0.010663
+Number of waitings: 8    Avg. waiting time: 0.00849
+Number of waitings: 24    Avg. waiting time: 0.0236005
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.085165
+Number of waitings: 36    Avg. waiting time: 0.015724
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 246    Avg. waiting time: 0.151638
+Number of waitings: 4    Avg. waiting time: 0.034336
+Number of waitings: 2    Avg. waiting time: 0.239319
+Number of waitings: 38    Avg. waiting time: 0.0559175
+Number of waitings: 62    Avg. waiting time: 0.0138375
+Number of waitings: 8    Avg. waiting time: 0.105417
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.011155
+Number of waitings: 24    Avg. waiting time: 0.0583655
+Number of waitings: 50    Avg. waiting time: 0.0452
+Number of waitings: 96    Avg. waiting time: 0.013762
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 26    Avg. waiting time: 1.47963
+Number of waitings: 4    Avg. waiting time: 0.132893
+Number of waitings: 44    Avg. waiting time: 0.070662
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 28    Avg. waiting time: 0.087352
+Number of waitings: 2    Avg. waiting time: 0.196366
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.0479665
+Number of waitings: 10    Avg. waiting time: 0.14949
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0162465
+Number of waitings: 4    Avg. waiting time: 0.0899575
+Number of waitings: 6    Avg. waiting time: 0.017358
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 24    Avg. waiting time: 0.054349
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0184465
+Number of waitings: 16    Avg. waiting time: 0.008981
+Number of waitings: 4    Avg. waiting time: 0.0291015
+Number of waitings: 60    Avg. waiting time: 0.177036
+Number of waitings: 8    Avg. waiting time: 0.0196545
+Number of waitings: 2    Avg. waiting time: 0.0503375
+Number of waitings: 8    Avg. waiting time: 0.123542
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 26    Avg. waiting time: 0.368039
+Number of waitings: 8    Avg. waiting time: 0.321785
+Number of waitings: 392    Avg. waiting time: 0.007058
+Number of waitings: 2    Avg. waiting time: 0.122361
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 80    Avg. waiting time: 0.0051375
+Number of waitings: 112    Avg. waiting time: 0.101931
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.197238
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.122288
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 84    Avg. waiting time: 0.097366
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.026691
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.09037
+Number of waitings: 6    Avg. waiting time: 0.0129165
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 718    Avg. waiting time: 1.69136
+Number of waitings: 184    Avg. waiting time: 0.0154805
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.783865
+Number of waitings: 16    Avg. waiting time: 0.10823
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 60    Avg. waiting time: 0.002207
+Number of stations: 300
+Number of run down batteries: 4020
+Average traveling duration: 100.428 minutes
+Average battery difference between start and end: -0.497459
+Average waiting times in charging station: 1.52163 minutes
+Number of vehicles which reached the end: 88482
+Number of vehicles which didn't finish before end of simulation: 1867
+Total number of used charging stations: 212
+Total number of charging stations usage: 15362
+Run down batteries during going to station: 519
+Total number of vehicles which didn't reach the end: 5887
+------------------------------------------------------
+Model loss: 432001
+
+Current loss is: 432001
+Time 100 elapsed!
+Time 200 elapsed!
+Time 300 elapsed!
+Time 400 elapsed!
+Time 500 elapsed!
+Time 600 elapsed!
+Time 700 elapsed!
+Time 800 elapsed!
+Time 900 elapsed!
+Time 1000 elapsed!
+Time 1100 elapsed!
+Time 1200 elapsed!
+Time 1300 elapsed!
+Time 1400 elapsed!
+Time 1500 elapsed!
+Time 1600 elapsed!
+Time 1700 elapsed!
+Time 1800 elapsed!
+Time 1900 elapsed!
+Time 2000 elapsed!
+Time 2100 elapsed!
+Time 2200 elapsed!
+Time 2300 elapsed!
+Time 2400 elapsed!
+Time 2500 elapsed!
+Time 2600 elapsed!
+Time 2700 elapsed!
+Time 2800 elapsed!
+Time 2900 elapsed!
+Time 3000 elapsed!
+Time 3100 elapsed!
+Time 3200 elapsed!
+Time 3300 elapsed!
+Time 3400 elapsed!
+Time 3500 elapsed!
+Time 3600 elapsed!
+Time 3700 elapsed!
+Time 3800 elapsed!
+Time 3900 elapsed!
+Time 4000 elapsed!
+Time 4100 elapsed!
+Time 4200 elapsed!
+Time 4300 elapsed!
+Time 4400 elapsed!
+Time 4500 elapsed!
+Time 4600 elapsed!
+Time 4700 elapsed!
+Time 4800 elapsed!
+Time 4900 elapsed!
+Number of waitings: 40    Avg. waiting time: 0.064952
+Number of waitings: 6    Avg. waiting time: 0.024896
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.073329
+Number of waitings: 2    Avg. waiting time: 0.100635
+Number of waitings: 24    Avg. waiting time: 0.0140095
+Number of waitings: 14    Avg. waiting time: 0.01519
+Number of waitings: 4    Avg. waiting time: 0.099463
+Number of waitings: 658    Avg. waiting time: 0.748609
+Number of waitings: 22    Avg. waiting time: 0.0879765
+Number of waitings: 2    Avg. waiting time: 0.116107
+Number of waitings: 24    Avg. waiting time: 0.027761
+Number of waitings: 458    Avg. waiting time: 0.05561
+Number of waitings: 2    Avg. waiting time: 0.024084
+Number of waitings: 8    Avg. waiting time: 0.0424475
+Number of waitings: 18    Avg. waiting time: 0.077637
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.612635
+Number of waitings: 2    Avg. waiting time: 0.046943
+Number of waitings: 2    Avg. waiting time: 0.0731115
+Number of waitings: 2    Avg. waiting time: 0.131498
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 214    Avg. waiting time: 0.145008
+Number of waitings: 24    Avg. waiting time: 0.081076
+Number of waitings: 42    Avg. waiting time: 0.169446
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 82    Avg. waiting time: 0.131809
+Number of waitings: 4    Avg. waiting time: 0.054045
+Number of waitings: 44    Avg. waiting time: 0.020658
+Number of waitings: 26    Avg. waiting time: 0.065106
+Number of waitings: 6    Avg. waiting time: 0.0524795
+Number of waitings: 8    Avg. waiting time: 0.019144
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 230    Avg. waiting time: 0.132561
+Number of waitings: 10    Avg. waiting time: 0.219132
+Number of waitings: 16    Avg. waiting time: 0.0791485
+Number of waitings: 384    Avg. waiting time: 0.093643
+Number of waitings: 46    Avg. waiting time: 0.0104915
+Number of waitings: 10    Avg. waiting time: 0.209423
+Number of waitings: 20    Avg. waiting time: 0.0123235
+Number of waitings: 30    Avg. waiting time: 0.0275625
+Number of waitings: 192    Avg. waiting time: 0.148888
+Number of waitings: 2    Avg. waiting time: 0.07054
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.039599
+Number of waitings: 32    Avg. waiting time: 0.017921
+Number of waitings: 14    Avg. waiting time: 0.057516
+Number of waitings: 88    Avg. waiting time: 0.167858
+Number of waitings: 868    Avg. waiting time: 27.0346
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 188    Avg. waiting time: 0.029009
+Number of waitings: 14    Avg. waiting time: 0.635905
+Number of waitings: 12    Avg. waiting time: 0.0241915
+Number of waitings: 4    Avg. waiting time: 0.089558
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0649545
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 66    Avg. waiting time: 0.0859985
+Number of waitings: 16    Avg. waiting time: 0.0140165
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.0486395
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.0154305
+Number of waitings: 34    Avg. waiting time: 0.061488
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.002737
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 100    Avg. waiting time: 0.127085
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.0077795
+Number of waitings: 32    Avg. waiting time: 0.030464
+Number of waitings: 648    Avg. waiting time: 0.807645
+Number of waitings: 4    Avg. waiting time: 0.025754
+Number of waitings: 10    Avg. waiting time: 0.039898
+Number of waitings: 8    Avg. waiting time: 0.93492
+Number of waitings: 6    Avg. waiting time: 0.0416395
+Number of waitings: 4    Avg. waiting time: 0.0130915
+Number of waitings: 170    Avg. waiting time: 0.045622
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.026887
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.187688
+Number of waitings: 42    Avg. waiting time: 0.105101
+Number of waitings: 28    Avg. waiting time: 0.016193
+Number of waitings: 2    Avg. waiting time: 4.32007
+Number of waitings: 78    Avg. waiting time: 0.0528515
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 28    Avg. waiting time: 0.13297
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 42    Avg. waiting time: 0.96778
+Number of waitings: 16    Avg. waiting time: 0.0190995
+Number of waitings: 2    Avg. waiting time: 0.195562
+Number of waitings: 18    Avg. waiting time: 0.015199
+Number of waitings: 294    Avg. waiting time: 0.112825
+Number of waitings: 4    Avg. waiting time: 0.0321385
+Number of waitings: 10    Avg. waiting time: 0.005599
+Number of waitings: 10    Avg. waiting time: 0.0131995
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 28    Avg. waiting time: 0.0195835
+Number of waitings: 48    Avg. waiting time: 0.0299535
+Number of waitings: 4    Avg. waiting time: 1.6026
+Number of waitings: 28    Avg. waiting time: 0.178243
+Number of waitings: 24    Avg. waiting time: 0.0178255
+Number of waitings: 54    Avg. waiting time: 0.0481775
+Number of waitings: 40    Avg. waiting time: 0.402352
+Number of waitings: 110    Avg. waiting time: 4.68403
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 166    Avg. waiting time: 0.0387965
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.0367405
+Number of waitings: 4    Avg. waiting time: 0.011066
+Number of waitings: 8    Avg. waiting time: 0.131245
+Number of waitings: 82    Avg. waiting time: 0.033085
+Number of waitings: 200    Avg. waiting time: 1.09134
+Number of waitings: 44    Avg. waiting time: 0.198876
+Number of waitings: 452    Avg. waiting time: 1.1743
+Number of waitings: 12    Avg. waiting time: 0.248355
+Number of waitings: 128    Avg. waiting time: 0.14867
+Number of waitings: 12    Avg. waiting time: 0.104415
+Number of waitings: 478    Avg. waiting time: 0.10439
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.039985
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 44    Avg. waiting time: 0.096764
+Number of waitings: 24    Avg. waiting time: 0.0805575
+Number of waitings: 6    Avg. waiting time: 0.0174295
+Number of waitings: 120    Avg. waiting time: 0.0797525
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.0104685
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 154    Avg. waiting time: 0.235799
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.133869
+Number of waitings: 230    Avg. waiting time: 0.109083
+Number of waitings: 2    Avg. waiting time: 0.0171395
+Number of waitings: 112    Avg. waiting time: 0.133151
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 38    Avg. waiting time: 0.0287405
+Number of waitings: 58    Avg. waiting time: 0.0638255
+Number of waitings: 6    Avg. waiting time: 0.223774
+Number of waitings: 74    Avg. waiting time: 0.233885
+Number of waitings: 4    Avg. waiting time: 0.0801915
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.042316
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 54    Avg. waiting time: 0.003728
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 24    Avg. waiting time: 0.041865
+Number of waitings: 4    Avg. waiting time: 0.0688845
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.209692
+Number of waitings: 2    Avg. waiting time: 0.067714
+Number of waitings: 12    Avg. waiting time: 0.083976
+Number of waitings: 14    Avg. waiting time: 0.032425
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.061216
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 92    Avg. waiting time: 0.501872
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 112    Avg. waiting time: 0.94033
+Number of waitings: 152    Avg. waiting time: 0.07876
+Number of waitings: 4    Avg. waiting time: 0.006485
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 44    Avg. waiting time: 0.210738
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.079103
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.147234
+Number of waitings: 6    Avg. waiting time: 0.03469
+Number of waitings: 50    Avg. waiting time: 0.0356065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 50    Avg. waiting time: 0.17089
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.0112095
+Number of waitings: 44    Avg. waiting time: 0.00744
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.03563
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 70    Avg. waiting time: 0.0222785
+Number of waitings: 176    Avg. waiting time: 0.0741285
+Number of waitings: 8    Avg. waiting time: 0.179819
+Number of waitings: 6    Avg. waiting time: 0.163428
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.008653
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 60    Avg. waiting time: 0.10605
+Number of waitings: 8    Avg. waiting time: 0.0080215
+Number of waitings: 8    Avg. waiting time: 0.177498
+Number of waitings: 34    Avg. waiting time: 0.0347275
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 64    Avg. waiting time: 0.043342
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 46    Avg. waiting time: 0.032802
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.0406575
+Number of waitings: 162    Avg. waiting time: 1.39345
+Number of waitings: 638    Avg. waiting time: 1.95611
+Number of waitings: 2    Avg. waiting time: 0.135924
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.12402
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.136741
+Number of waitings: 560    Avg. waiting time: 0.76006
+Number of waitings: 24    Avg. waiting time: 0.00849
+Number of waitings: 24    Avg. waiting time: 0.0236005
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.085165
+Number of waitings: 32    Avg. waiting time: 0.015724
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 232    Avg. waiting time: 0.0178935
+Number of waitings: 2    Avg. waiting time: 0.034336
+Number of waitings: 2    Avg. waiting time: 0.239319
+Number of waitings: 28    Avg. waiting time: 0.0559175
+Number of waitings: 60    Avg. waiting time: 0.0138375
+Number of waitings: 2    Avg. waiting time: 0.105417
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.011155
+Number of waitings: 30    Avg. waiting time: 0.0693715
+Number of waitings: 106    Avg. waiting time: 0.0452
+Number of waitings: 86    Avg. waiting time: 0.013762
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.126375
+Number of waitings: 6    Avg. waiting time: 0.132893
+Number of waitings: 56    Avg. waiting time: 0.070662
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 312    Avg. waiting time: 0.087352
+Number of waitings: 8    Avg. waiting time: 0.196365
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.0479665
+Number of waitings: 10    Avg. waiting time: 0.14949
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.0162465
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.017358
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 38    Avg. waiting time: 0.054349
+Number of waitings: 2    Avg. waiting time: 0.0307605
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 70    Avg. waiting time: 0.008981
+Number of waitings: 6    Avg. waiting time: 0.0291015
+Number of waitings: 168    Avg. waiting time: 0.150911
+Number of waitings: 4    Avg. waiting time: 0.0196545
+Number of waitings: 2    Avg. waiting time: 0.0503375
+Number of waitings: 8    Avg. waiting time: 0.086965
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.321785
+Number of waitings: 16    Avg. waiting time: 0.007058
+Number of waitings: 14    Avg. waiting time: 0.122361
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 78    Avg. waiting time: 0.0051375
+Number of waitings: 92    Avg. waiting time: 0.101931
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.197238
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.122287
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.097366
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 130    Avg. waiting time: 0.026691
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.09037
+Number of waitings: 4    Avg. waiting time: 0.0129165
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 222    Avg. waiting time: 0.199231
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.783865
+Number of waitings: 12    Avg. waiting time: 0.10823
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 48    Avg. waiting time: 0.002207
+Number of stations: 300
+Number of run down batteries: 4111
+Average traveling duration: 100.127 minutes
+Average battery difference between start and end: -0.497477
+Average waiting times in charging station: 2.1703 minutes
+Number of vehicles which reached the end: 88310
+Number of vehicles which didn't finish before end of simulation: 2025
+Total number of used charging stations: 201
+Total number of charging stations usage: 13208
+Run down batteries during going to station: 506
+Total number of vehicles which didn't reach the end: 6136
+------------------------------------------------------
+Model loss: 441102
+
+Current loss is: 441102
+Time 100 elapsed!
+Time 200 elapsed!
+Time 300 elapsed!
+Time 400 elapsed!
+Time 500 elapsed!
+Time 600 elapsed!
+Time 700 elapsed!
+Time 800 elapsed!
+Time 900 elapsed!
+Time 1000 elapsed!
+Time 1100 elapsed!
+Time 1200 elapsed!
+Time 1300 elapsed!
+Time 1400 elapsed!
+Time 1500 elapsed!
+Time 1600 elapsed!
+Time 1700 elapsed!
+Time 1800 elapsed!
+Time 1900 elapsed!
+Time 2000 elapsed!
+Time 2100 elapsed!
+Time 2200 elapsed!
+Time 2300 elapsed!
+Time 2400 elapsed!
+Time 2500 elapsed!
+Time 2600 elapsed!
+Time 2700 elapsed!
+Time 2800 elapsed!
+Time 2900 elapsed!
+Time 3000 elapsed!
+Time 3100 elapsed!
+Time 3200 elapsed!
+Time 3300 elapsed!
+Time 3400 elapsed!
+Time 3500 elapsed!
+Time 3600 elapsed!
+Time 3700 elapsed!
+Time 3800 elapsed!
+Time 3900 elapsed!
+Time 4000 elapsed!
+Time 4100 elapsed!
+Time 4200 elapsed!
+Time 4300 elapsed!
+Time 4400 elapsed!
+Time 4500 elapsed!
+Time 4600 elapsed!
+Time 4700 elapsed!
+Time 4800 elapsed!
+Time 4900 elapsed!
+Number of waitings: 56    Avg. waiting time: 0.064952
+Number of waitings: 4    Avg. waiting time: 0.024896
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 24    Avg. waiting time: 0.0140095
+Number of waitings: 22    Avg. waiting time: 0.01519
+Number of waitings: 4    Avg. waiting time: 0.099463
+Number of waitings: 10    Avg. waiting time: 0.019144
+Number of waitings: 26    Avg. waiting time: 0.0644755
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 2.67099
+Number of waitings: 106    Avg. waiting time: 0.05561
+Number of waitings: 8    Avg. waiting time: 0.024084
+Number of waitings: 2    Avg. waiting time: 0.0424475
+Number of waitings: 50    Avg. waiting time: 0.107419
+Number of waitings: 4    Avg. waiting time: 0.177333
+Number of waitings: 214    Avg. waiting time: 0.612635
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.219132
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.146841
+Number of waitings: 380    Avg. waiting time: 0.131825
+Number of waitings: 8    Avg. waiting time: 0.081076
+Number of waitings: 30    Avg. waiting time: 0.169446
+Number of waitings: 2    Avg. waiting time: 0.0215375
+Number of waitings: 118    Avg. waiting time: 0.131809
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 38    Avg. waiting time: 0.020658
+Number of waitings: 14    Avg. waiting time: 0.065106
+Number of waitings: 10    Avg. waiting time: 0.0524795
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.0125485
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 630    Avg. waiting time: 0.956787
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.0791485
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 94    Avg. waiting time: 0.0104915
+Number of waitings: 14    Avg. waiting time: 0.209423
+Number of waitings: 8    Avg. waiting time: 0.0123235
+Number of waitings: 24    Avg. waiting time: 0.0275625
+Number of waitings: 206    Avg. waiting time: 0.148888
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.0204455
+Number of waitings: 4    Avg. waiting time: 0.039599
+Number of waitings: 46    Avg. waiting time: 0.017921
+Number of waitings: 6    Avg. waiting time: 0.057516
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 830    Avg. waiting time: 18.3948
+Number of waitings: 2    Avg. waiting time: 0.105753
+Number of waitings: 16    Avg. waiting time: 0.108641
+Number of waitings: 12    Avg. waiting time: 0.635905
+Number of waitings: 8    Avg. waiting time: 0.0241915
+Number of waitings: 4    Avg. waiting time: 0.089558
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.0649545
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 54    Avg. waiting time: 0.0859985
+Number of waitings: 14    Avg. waiting time: 0.0140165
+Number of waitings: 2    Avg. waiting time: 0.0247835
+Number of waitings: 26    Avg. waiting time: 0.209692
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0154305
+Number of waitings: 116    Avg. waiting time: 0.061488
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 40    Avg. waiting time: 0.0690395
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 240    Avg. waiting time: 0.127085
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.030464
+Number of waitings: 706    Avg. waiting time: 0.663457
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.039898
+Number of waitings: 8    Avg. waiting time: 0.93492
+Number of waitings: 4    Avg. waiting time: 0.0416395
+Number of waitings: 2    Avg. waiting time: 0.0130915
+Number of waitings: 306    Avg. waiting time: 0.072898
+Number of waitings: 6    Avg. waiting time: 0.053642
+Number of waitings: 24    Avg. waiting time: 0.026887
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.178287
+Number of waitings: 36    Avg. waiting time: 0.105101
+Number of waitings: 8    Avg. waiting time: 0.016193
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.132971
+Number of waitings: 4    Avg. waiting time: 0.0758225
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 26    Avg. waiting time: 0.967781
+Number of waitings: 20    Avg. waiting time: 0.0190995
+Number of waitings: 2    Avg. waiting time: 0.195562
+Number of waitings: 4    Avg. waiting time: 0.015199
+Number of waitings: 266    Avg. waiting time: 0.159513
+Number of waitings: 6    Avg. waiting time: 0.0321385
+Number of waitings: 6    Avg. waiting time: 0.006094
+Number of waitings: 18    Avg. waiting time: 0.0131995
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.0195835
+Number of waitings: 54    Avg. waiting time: 0.0299535
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.178243
+Number of waitings: 10    Avg. waiting time: 0.0178255
+Number of waitings: 40    Avg. waiting time: 0.0481775
+Number of waitings: 52    Avg. waiting time: 0.402352
+Number of waitings: 98    Avg. waiting time: 2.188
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 146    Avg. waiting time: 0.0387965
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.0367405
+Number of waitings: 4    Avg. waiting time: 0.011066
+Number of waitings: 800    Avg. waiting time: 1.15358
+Number of waitings: 22    Avg. waiting time: 0.033085
+Number of waitings: 200    Avg. waiting time: 0.019019
+Number of waitings: 86    Avg. waiting time: 0.23424
+Number of waitings: 24    Avg. waiting time: 0.46591
+Number of waitings: 8    Avg. waiting time: 0.248355
+Number of waitings: 118    Avg. waiting time: 0.14867
+Number of waitings: 12    Avg. waiting time: 0.104415
+Number of waitings: 136    Avg. waiting time: 0.0621295
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 26    Avg. waiting time: 0.0975015
+Number of waitings: 12    Avg. waiting time: 0.0805575
+Number of waitings: 2    Avg. waiting time: 0.0174295
+Number of waitings: 92    Avg. waiting time: 0.0797525
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.0104685
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.041865
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.133869
+Number of waitings: 26    Avg. waiting time: 0.109083
+Number of waitings: 4    Avg. waiting time: 0.0171395
+Number of waitings: 92    Avg. waiting time: 0.133151
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.0287405
+Number of waitings: 284    Avg. waiting time: 0.0638255
+Number of waitings: 2    Avg. waiting time: 0.223773
+Number of waitings: 64    Avg. waiting time: 0.233885
+Number of waitings: 4    Avg. waiting time: 0.0801915
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.042316
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 46    Avg. waiting time: 0.057863
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 112    Avg. waiting time: 0.009968
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.067714
+Number of waitings: 10    Avg. waiting time: 0.029927
+Number of waitings: 12    Avg. waiting time: 0.032425
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.061216
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 80    Avg. waiting time: 0.501872
+Number of waitings: 4    Avg. waiting time: 0.018123
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.94033
+Number of waitings: 204    Avg. waiting time: 0.07876
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.0560065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.079103
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 152    Avg. waiting time: 0.0316895
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 66    Avg. waiting time: 0.0356065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.170889
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 46    Avg. waiting time: 0.00744
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.03563
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 68    Avg. waiting time: 0.0222785
+Number of waitings: 166    Avg. waiting time: 0.062521
+Number of waitings: 10    Avg. waiting time: 0.179819
+Number of waitings: 2    Avg. waiting time: 0.163428
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 46    Avg. waiting time: 0.10605
+Number of waitings: 2    Avg. waiting time: 0.0080215
+Number of waitings: 20    Avg. waiting time: 0.177498
+Number of waitings: 50    Avg. waiting time: 0.0347275
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 48    Avg. waiting time: 0.043342
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 142    Avg. waiting time: 0.032802
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 92    Avg. waiting time: 0.167858
+Number of waitings: 168    Avg. waiting time: 1.39345
+Number of waitings: 958    Avg. waiting time: 37.1662
+Number of waitings: 10    Avg. waiting time: 0.135925
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.12402
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.136741
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.00849
+Number of waitings: 2    Avg. waiting time: 0.0236005
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.085165
+Number of waitings: 40    Avg. waiting time: 0.015724
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 234    Avg. waiting time: 0.0178935
+Number of waitings: 4    Avg. waiting time: 0.034336
+Number of waitings: 6    Avg. waiting time: 0.239319
+Number of waitings: 52    Avg. waiting time: 0.0559175
+Number of waitings: 76    Avg. waiting time: 0.0138375
+Number of waitings: 10    Avg. waiting time: 0.105417
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 56    Avg. waiting time: 0.011155
+Number of waitings: 20    Avg. waiting time: 0.0693715
+Number of waitings: 56    Avg. waiting time: 0.0452
+Number of waitings: 78    Avg. waiting time: 0.013762
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 340    Avg. waiting time: 1.03557
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 40    Avg. waiting time: 0.070662
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 52    Avg. waiting time: 0.087352
+Number of waitings: 4    Avg. waiting time: 0.196365
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.14949
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.0162465
+Number of waitings: 6    Avg. waiting time: 0.0899575
+Number of waitings: 4    Avg. waiting time: 0.017358
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 36    Avg. waiting time: 0.054349
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0184465
+Number of waitings: 36    Avg. waiting time: 0.0245195
+Number of waitings: 8    Avg. waiting time: 0.0291015
+Number of waitings: 28    Avg. waiting time: 0.150911
+Number of waitings: 6    Avg. waiting time: 0.0196545
+Number of waitings: 2    Avg. waiting time: 0.0503375
+Number of waitings: 10    Avg. waiting time: 0.096415
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.321785
+Number of waitings: 20    Avg. waiting time: 0.007058
+Number of waitings: 28    Avg. waiting time: 0.075435
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 76    Avg. waiting time: 0.0051375
+Number of waitings: 156    Avg. waiting time: 0.189564
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.197238
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.122288
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 28    Avg. waiting time: 0.026691
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.09037
+Number of waitings: 2    Avg. waiting time: 0.0129165
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 214    Avg. waiting time: 0.053709
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.783865
+Number of waitings: 10    Avg. waiting time: 0.0426665
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of stations: 300
+Number of run down batteries: 3978
+Average traveling duration: 100.71 minutes
+Average battery difference between start and end: -0.497424
+Average waiting times in charging station: 4.48703 minutes
+Number of vehicles which reached the end: 87442
+Number of vehicles which didn't finish before end of simulation: 1974
+Total number of used charging stations: 184
+Total number of charging stations usage: 12152
+Run down batteries during going to station: 523
+Total number of vehicles which didn't reach the end: 5952
+------------------------------------------------------
+Model loss: 427804
+
+Current loss is: 427804
+Time 100 elapsed!
+Time 200 elapsed!
+Time 300 elapsed!
+Time 400 elapsed!
+Time 500 elapsed!
+Time 600 elapsed!
+Time 700 elapsed!
+Time 800 elapsed!
+Time 900 elapsed!
+Time 1000 elapsed!
+Time 1100 elapsed!
+Time 1200 elapsed!
+Time 1300 elapsed!
+Time 1400 elapsed!
+Time 1500 elapsed!
+Time 1600 elapsed!
+Time 1700 elapsed!
+Time 1800 elapsed!
+Time 1900 elapsed!
+Time 2000 elapsed!
+Time 2100 elapsed!
+Time 2200 elapsed!
+Time 2300 elapsed!
+Time 2400 elapsed!
+Time 2500 elapsed!
+Time 2600 elapsed!
+Time 2700 elapsed!
+Time 2800 elapsed!
+Time 2900 elapsed!
+Time 3000 elapsed!
+Time 3100 elapsed!
+Time 3200 elapsed!
+Time 3300 elapsed!
+Time 3400 elapsed!
+Time 3500 elapsed!
+Time 3600 elapsed!
+Time 3700 elapsed!
+Time 3800 elapsed!
+Time 3900 elapsed!
+Time 4000 elapsed!
+Time 4100 elapsed!
+Time 4200 elapsed!
+Time 4300 elapsed!
+Time 4400 elapsed!
+Time 4500 elapsed!
+Time 4600 elapsed!
+Time 4700 elapsed!
+Time 4800 elapsed!
+Time 4900 elapsed!
+Number of waitings: 56    Avg. waiting time: 0.064952
+Number of waitings: 2    Avg. waiting time: 0.024896
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.073329
+Number of waitings: 2    Avg. waiting time: 0.064297
+Number of waitings: 28    Avg. waiting time: 0.0140095
+Number of waitings: 14    Avg. waiting time: 0.01519
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.019144
+Number of waitings: 28    Avg. waiting time: 0.0644755
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 70    Avg. waiting time: 0.05561
+Number of waitings: 12    Avg. waiting time: 0.024084
+Number of waitings: 2    Avg. waiting time: 0.0834565
+Number of waitings: 12    Avg. waiting time: 0.075435
+Number of waitings: 2    Avg. waiting time: 0.177333
+Number of waitings: 32    Avg. waiting time: 0.612635
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.138211
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.146841
+Number of waitings: 302    Avg. waiting time: 0.115305
+Number of waitings: 12    Avg. waiting time: 0.081076
+Number of waitings: 26    Avg. waiting time: 0.169446
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 114    Avg. waiting time: 0.131809
+Number of waitings: 2    Avg. waiting time: 0.054045
+Number of waitings: 28    Avg. waiting time: 0.020658
+Number of waitings: 14    Avg. waiting time: 0.065106
+Number of waitings: 4    Avg. waiting time: 0.0524795
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0125485
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 380    Avg. waiting time: 0.142411
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.0791485
+Number of waitings: 22    Avg. waiting time: 0.209692
+Number of waitings: 58    Avg. waiting time: 0.0104915
+Number of waitings: 16    Avg. waiting time: 0.209423
+Number of waitings: 4    Avg. waiting time: 0.0123235
+Number of waitings: 38    Avg. waiting time: 0.0275625
+Number of waitings: 334    Avg. waiting time: 0.312824
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.039599
+Number of waitings: 48    Avg. waiting time: 0.017921
+Number of waitings: 16    Avg. waiting time: 0.057516
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 942    Avg. waiting time: 29.6105
+Number of waitings: 4    Avg. waiting time: 0.105753
+Number of waitings: 16    Avg. waiting time: 0.108641
+Number of waitings: 8    Avg. waiting time: 0.635905
+Number of waitings: 252    Avg. waiting time: 0.0241915
+Number of waitings: 2    Avg. waiting time: 0.089558
+Number of waitings: 2    Avg. waiting time: 0.282094
+Number of waitings: 10    Avg. waiting time: 0.0649545
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 52    Avg. waiting time: 0.0859985
+Number of waitings: 10    Avg. waiting time: 0.0140165
+Number of waitings: 4    Avg. waiting time: 0.0292475
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.0154305
+Number of waitings: 118    Avg. waiting time: 0.061488
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 56    Avg. waiting time: 0.0690395
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 24    Avg. waiting time: 0.127085
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.0077795
+Number of waitings: 28    Avg. waiting time: 0.030464
+Number of waitings: 492    Avg. waiting time: 0.218673
+Number of waitings: 1122    Avg. waiting time: 6.15392
+Number of waitings: 8    Avg. waiting time: 0.039898
+Number of waitings: 12    Avg. waiting time: 0.93492
+Number of waitings: 6    Avg. waiting time: 0.0416395
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 214    Avg. waiting time: 0.053642
+Number of waitings: 12    Avg. waiting time: 0.026887
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.178287
+Number of waitings: 38    Avg. waiting time: 0.105101
+Number of waitings: 12    Avg. waiting time: 0.016193
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.132971
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.96778
+Number of waitings: 34    Avg. waiting time: 0.0190995
+Number of waitings: 6    Avg. waiting time: 0.195562
+Number of waitings: 8    Avg. waiting time: 0.015199
+Number of waitings: 258    Avg. waiting time: 0.104492
+Number of waitings: 2    Avg. waiting time: 0.0321385
+Number of waitings: 12    Avg. waiting time: 0.005599
+Number of waitings: 16    Avg. waiting time: 0.0131995
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.0195835
+Number of waitings: 58    Avg. waiting time: 0.0299535
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.178243
+Number of waitings: 24    Avg. waiting time: 0.0178255
+Number of waitings: 52    Avg. waiting time: 0.0481775
+Number of waitings: 220    Avg. waiting time: 0.402352
+Number of waitings: 46    Avg. waiting time: 1.19929
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 184    Avg. waiting time: 0.0387965
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 118    Avg. waiting time: 0.0367405
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 62    Avg. waiting time: 0.041865
+Number of waitings: 22    Avg. waiting time: 0.033085
+Number of waitings: 226    Avg. waiting time: 0.019019
+Number of waitings: 334    Avg. waiting time: 0.0700238
+Number of waitings: 842    Avg. waiting time: 10.2173
+Number of waitings: 6    Avg. waiting time: 0.248355
+Number of waitings: 108    Avg. waiting time: 0.148669
+Number of waitings: 26    Avg. waiting time: 0.104415
+Number of waitings: 162    Avg. waiting time: 0.0621295
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.070737
+Number of waitings: 170    Avg. waiting time: 0.0805575
+Number of waitings: 4    Avg. waiting time: 0.0174295
+Number of waitings: 100    Avg. waiting time: 0.0797525
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.0104685
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 46    Avg. waiting time: 0.133869
+Number of waitings: 20    Avg. waiting time: 0.109083
+Number of waitings: 4    Avg. waiting time: 0.0171395
+Number of waitings: 72    Avg. waiting time: 0.133151
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 52    Avg. waiting time: 0.0287405
+Number of waitings: 298    Avg. waiting time: 0.0638255
+Number of waitings: 4    Avg. waiting time: 0.223774
+Number of waitings: 692    Avg. waiting time: 0.418348
+Number of waitings: 2    Avg. waiting time: 0.0801915
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.042316
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.10101
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.0688845
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.067714
+Number of waitings: 18    Avg. waiting time: 0.029927
+Number of waitings: 12    Avg. waiting time: 0.032425
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 24    Avg. waiting time: 0.061216
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 58    Avg. waiting time: 1.50562
+Number of waitings: 6    Avg. waiting time: 0.018123
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 34    Avg. waiting time: 0.94033
+Number of waitings: 222    Avg. waiting time: 0.212754
+Number of waitings: 4    Avg. waiting time: 0.006485
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.0560065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 24    Avg. waiting time: 0.079103
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 258    Avg. waiting time: 0.0593895
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 52    Avg. waiting time: 0.0356065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 34    Avg. waiting time: 0.17089
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 54    Avg. waiting time: 0.00744
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.03563
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 88    Avg. waiting time: 0.0222785
+Number of waitings: 184    Avg. waiting time: 0.062521
+Number of waitings: 122    Avg. waiting time: 0.04231
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.008653
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 112    Avg. waiting time: 0.219018
+Number of waitings: 2    Avg. waiting time: 0.0080215
+Number of waitings: 8    Avg. waiting time: 0.177498
+Number of waitings: 56    Avg. waiting time: 0.0347275
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 64    Avg. waiting time: 0.043342
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 108    Avg. waiting time: 0.0606305
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.0424475
+Number of waitings: 194    Avg. waiting time: 1.39344
+Number of waitings: 926    Avg. waiting time: 20.3791
+Number of waitings: 14    Avg. waiting time: 0.135925
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.12402
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.136741
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.00849
+Number of waitings: 16    Avg. waiting time: 0.0236005
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.085165
+Number of waitings: 24    Avg. waiting time: 0.015724
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 250    Avg. waiting time: 0.0178935
+Number of waitings: 8    Avg. waiting time: 0.034336
+Number of waitings: 2    Avg. waiting time: 0.071599
+Number of waitings: 44    Avg. waiting time: 0.0559175
+Number of waitings: 70    Avg. waiting time: 0.0138375
+Number of waitings: 8    Avg. waiting time: 0.105417
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.011155
+Number of waitings: 30    Avg. waiting time: 0.0693715
+Number of waitings: 50    Avg. waiting time: 0.0452
+Number of waitings: 108    Avg. waiting time: 0.013762
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 230    Avg. waiting time: 0.070662
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 208    Avg. waiting time: 0.087352
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.14949
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.0162465
+Number of waitings: 6    Avg. waiting time: 0.0899575
+Number of waitings: 2    Avg. waiting time: 0.017358
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 48    Avg. waiting time: 0.048373
+Number of waitings: 138    Avg. waiting time: 0.032108
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.0184465
+Number of waitings: 8    Avg. waiting time: 0.0245195
+Number of waitings: 8    Avg. waiting time: 0.0291015
+Number of waitings: 90    Avg. waiting time: 0.12698
+Number of waitings: 2    Avg. waiting time: 0.0196545
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.123542
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.321786
+Number of waitings: 30    Avg. waiting time: 0.007058
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 86    Avg. waiting time: 0.0051375
+Number of waitings: 6    Avg. waiting time: 1.6026
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.197238
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.054015
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.026691
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.09037
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 162    Avg. waiting time: 0.0154805
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 32    Avg. waiting time: 0.783865
+Number of waitings: 14    Avg. waiting time: 0.10823
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of stations: 300
+Number of run down batteries: 4045
+Average traveling duration: 100.281 minutes
+Average battery difference between start and end: -0.497502
+Average waiting times in charging station: 4.51165 minutes
+Number of vehicles which reached the end: 87902
+Number of vehicles which didn't finish before end of simulation: 1944
+Total number of used charging stations: 178
+Total number of charging stations usage: 14182
+Run down batteries during going to station: 504
+Total number of vehicles which didn't reach the end: 5989
+------------------------------------------------------
+Model loss: 434504
+
+Current loss is: 434504
+Time 100 elapsed!
+Time 200 elapsed!
+Time 300 elapsed!
+Time 400 elapsed!
+Time 500 elapsed!
+Time 600 elapsed!
+Time 700 elapsed!
+Time 800 elapsed!
+Time 900 elapsed!
+Time 1000 elapsed!
+Time 1100 elapsed!
+Time 1200 elapsed!
+Time 1300 elapsed!
+Time 1400 elapsed!
+Time 1500 elapsed!
+Time 1600 elapsed!
+Time 1700 elapsed!
+Time 1800 elapsed!
+Time 1900 elapsed!
+Time 2000 elapsed!
+Time 2100 elapsed!
+Time 2200 elapsed!
+Time 2300 elapsed!
+Time 2400 elapsed!
+Time 2500 elapsed!
+Time 2600 elapsed!
+Time 2700 elapsed!
+Time 2800 elapsed!
+Time 2900 elapsed!
+Time 3000 elapsed!
+Time 3100 elapsed!
+Time 3200 elapsed!
+Time 3300 elapsed!
+Time 3400 elapsed!
+Time 3500 elapsed!
+Time 3600 elapsed!
+Time 3700 elapsed!
+Time 3800 elapsed!
+Time 3900 elapsed!
+Time 4000 elapsed!
+Time 4100 elapsed!
+Time 4200 elapsed!
+Time 4300 elapsed!
+Time 4400 elapsed!
+Time 4500 elapsed!
+Time 4600 elapsed!
+Time 4700 elapsed!
+Time 4800 elapsed!
+Time 4900 elapsed!
+Number of waitings: 44    Avg. waiting time: 0.064952
+Number of waitings: 4    Avg. waiting time: 0.024896
+Number of waitings: 2    Avg. waiting time: 0.0132405
+Number of waitings: 240    Avg. waiting time: 0.073329
+Number of waitings: 2    Avg. waiting time: 0.129019
+Number of waitings: 26    Avg. waiting time: 0.0140095
+Number of waitings: 18    Avg. waiting time: 0.01519
+Number of waitings: 4    Avg. waiting time: 0.099463
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.0879765
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.098004
+Number of waitings: 90    Avg. waiting time: 0.05561
+Number of waitings: 36    Avg. waiting time: 0.024084
+Number of waitings: 6    Avg. waiting time: 0.0089515
+Number of waitings: 18    Avg. waiting time: 0.075435
+Number of waitings: 240    Avg. waiting time: 0.0359727
+Number of waitings: 22    Avg. waiting time: 0.612635
+Number of waitings: 4    Avg. waiting time: 0.046943
+Number of waitings: 18    Avg. waiting time: 0.219132
+Number of waitings: 2    Avg. waiting time: 0.11185
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 414    Avg. waiting time: 0.115305
+Number of waitings: 26    Avg. waiting time: 0.081076
+Number of waitings: 38    Avg. waiting time: 0.169446
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 120    Avg. waiting time: 0.131809
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 48    Avg. waiting time: 0.020658
+Number of waitings: 26    Avg. waiting time: 0.065106
+Number of waitings: 14    Avg. waiting time: 0.0524795
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.209691
+Number of waitings: 240    Avg. waiting time: 0.151482
+Number of waitings: 2    Avg. waiting time: 0.113865
+Number of waitings: 8    Avg. waiting time: 0.0791485
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 62    Avg. waiting time: 0.0104915
+Number of waitings: 16    Avg. waiting time: 0.209423
+Number of waitings: 176    Avg. waiting time: 0.0123235
+Number of waitings: 200    Avg. waiting time: 0.0275625
+Number of waitings: 604    Avg. waiting time: 0.695013
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.039599
+Number of waitings: 38    Avg. waiting time: 0.017921
+Number of waitings: 6    Avg. waiting time: 0.057516
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 746    Avg. waiting time: 4.27579
+Number of waitings: 4    Avg. waiting time: 0.105753
+Number of waitings: 28    Avg. waiting time: 0.108641
+Number of waitings: 22    Avg. waiting time: 0.635905
+Number of waitings: 16    Avg. waiting time: 0.0241915
+Number of waitings: 4    Avg. waiting time: 0.089558
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.0649545
+Number of waitings: 2    Avg. waiting time: 0.090834
+Number of waitings: 58    Avg. waiting time: 0.0859985
+Number of waitings: 18    Avg. waiting time: 0.0140165
+Number of waitings: 6    Avg. waiting time: 0.0247835
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.0154305
+Number of waitings: 246    Avg. waiting time: 0.0932775
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 38    Avg. waiting time: 0.0690395
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.127085
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.0077795
+Number of waitings: 16    Avg. waiting time: 0.030464
+Number of waitings: 544    Avg. waiting time: 0.15592
+Number of waitings: 28    Avg. waiting time: 0.042264
+Number of waitings: 6    Avg. waiting time: 0.039898
+Number of waitings: 16    Avg. waiting time: 0.93492
+Number of waitings: 6    Avg. waiting time: 0.0416395
+Number of waitings: 4    Avg. waiting time: 0.0130915
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.053642
+Number of waitings: 30    Avg. waiting time: 0.026887
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.178287
+Number of waitings: 42    Avg. waiting time: 0.105101
+Number of waitings: 14    Avg. waiting time: 0.016193
+Number of waitings: 6    Avg. waiting time: 3.24005
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.13297
+Number of waitings: 6    Avg. waiting time: 0.0758225
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 32    Avg. waiting time: 0.96778
+Number of waitings: 26    Avg. waiting time: 0.0190995
+Number of waitings: 12    Avg. waiting time: 0.195562
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 318    Avg. waiting time: 0.124306
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.005599
+Number of waitings: 22    Avg. waiting time: 0.0131995
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 24    Avg. waiting time: 0.0195835
+Number of waitings: 32    Avg. waiting time: 0.0299535
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 26    Avg. waiting time: 0.178243
+Number of waitings: 10    Avg. waiting time: 0.0178255
+Number of waitings: 74    Avg. waiting time: 0.0481775
+Number of waitings: 64    Avg. waiting time: 0.402352
+Number of waitings: 56    Avg. waiting time: 4.68403
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 222    Avg. waiting time: 0.0387965
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.0367405
+Number of waitings: 4    Avg. waiting time: 0.011066
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.033085
+Number of waitings: 218    Avg. waiting time: 0.0226252
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 520    Avg. waiting time: 2.63465
+Number of waitings: 8    Avg. waiting time: 0.248355
+Number of waitings: 144    Avg. waiting time: 0.14867
+Number of waitings: 10    Avg. waiting time: 0.104415
+Number of waitings: 178    Avg. waiting time: 0.0621295
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.030129
+Number of waitings: 144    Avg. waiting time: 0.110832
+Number of waitings: 24    Avg. waiting time: 0.0805575
+Number of waitings: 6    Avg. waiting time: 0.0174295
+Number of waitings: 106    Avg. waiting time: 0.0797525
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.0104685
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 24    Avg. waiting time: 0.133869
+Number of waitings: 40    Avg. waiting time: 0.109083
+Number of waitings: 2    Avg. waiting time: 0.0171395
+Number of waitings: 126    Avg. waiting time: 0.13315
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 36    Avg. waiting time: 0.0287405
+Number of waitings: 80    Avg. waiting time: 0.0638255
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 224    Avg. waiting time: 0.233885
+Number of waitings: 4    Avg. waiting time: 0.0801915
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.042316
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 704    Avg. waiting time: 1.46081
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.067714
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.032425
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.061216
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 76    Avg. waiting time: 0.501872
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 164    Avg. waiting time: 0.94033
+Number of waitings: 522    Avg. waiting time: 0.436306
+Number of waitings: 4    Avg. waiting time: 0.006485
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 1.13329
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 26    Avg. waiting time: 0.079103
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 56    Avg. waiting time: 0.0356065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 28    Avg. waiting time: 0.17089
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 42    Avg. waiting time: 0.00744
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.03563
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 60    Avg. waiting time: 0.0222785
+Number of waitings: 500    Avg. waiting time: 0.185765
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.008653
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 254    Avg. waiting time: 0.0080215
+Number of waitings: 14    Avg. waiting time: 0.177498
+Number of waitings: 68    Avg. waiting time: 0.0347275
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 52    Avg. waiting time: 0.043342
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 256    Avg. waiting time: 2.20779
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 28    Avg. waiting time: 0.033058
+Number of waitings: 392    Avg. waiting time: 1.429
+Number of waitings: 808    Avg. waiting time: 36.4503
+Number of waitings: 4    Avg. waiting time: 0.135924
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.12402
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.136741
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 184    Avg. waiting time: 0.00849
+Number of waitings: 14    Avg. waiting time: 0.0236005
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.085165
+Number of waitings: 30    Avg. waiting time: 0.015724
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.034336
+Number of waitings: 18    Avg. waiting time: 0.016539
+Number of waitings: 40    Avg. waiting time: 0.0559175
+Number of waitings: 70    Avg. waiting time: 0.0138375
+Number of waitings: 14    Avg. waiting time: 0.105417
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 26    Avg. waiting time: 0.011155
+Number of waitings: 34    Avg. waiting time: 0.0583655
+Number of waitings: 418    Avg. waiting time: 0.0452
+Number of waitings: 86    Avg. waiting time: 0.013762
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.132894
+Number of waitings: 54    Avg. waiting time: 0.070662
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 62    Avg. waiting time: 0.087352
+Number of waitings: 4    Avg. waiting time: 0.196365
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.239319
+Number of waitings: 8    Avg. waiting time: 0.14949
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.0162465
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.017358
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 56    Avg. waiting time: 0.060732
+Number of waitings: 4    Avg. waiting time: 0.032108
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.0184465
+Number of waitings: 16    Avg. waiting time: 0.0245195
+Number of waitings: 10    Avg. waiting time: 0.0291015
+Number of waitings: 68    Avg. waiting time: 0.032557
+Number of waitings: 6    Avg. waiting time: 0.0196545
+Number of waitings: 4    Avg. waiting time: 0.0503375
+Number of waitings: 10    Avg. waiting time: 0.086965
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.321786
+Number of waitings: 28    Avg. waiting time: 0.007058
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 58    Avg. waiting time: 0.0051375
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 24    Avg. waiting time: 0.197238
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 216    Avg. waiting time: 0.054015
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.026691
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.09037
+Number of waitings: 2    Avg. waiting time: 0.0129165
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 278    Avg. waiting time: 0.0154805
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.026354
+Number of waitings: 14    Avg. waiting time: 0.0426665
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of stations: 300
+Number of run down batteries: 4204
+Average traveling duration: 100.005 minutes
+Average battery difference between start and end: -0.497367
+Average waiting times in charging station: 2.76119 minutes
+Number of vehicles which reached the end: 87849
+Number of vehicles which didn't finish before end of simulation: 1974
+Total number of used charging stations: 176
+Total number of charging stations usage: 13808
+Run down batteries during going to station: 562
+Total number of vehicles which didn't reach the end: 6178
+------------------------------------------------------
+Model loss: 450402
+
+Current loss is: 450402
+Time 100 elapsed!
+Time 200 elapsed!
+Time 300 elapsed!
+Time 400 elapsed!
+Time 500 elapsed!
+Time 600 elapsed!
+Time 700 elapsed!
+Time 800 elapsed!
+Time 900 elapsed!
+Time 1000 elapsed!
+Time 1100 elapsed!
+Time 1200 elapsed!
+Time 1300 elapsed!
+Time 1400 elapsed!
+Time 1500 elapsed!
+Time 1600 elapsed!
+Time 1700 elapsed!
+Time 1800 elapsed!
+Time 1900 elapsed!
+Time 2000 elapsed!
+Time 2100 elapsed!
+Time 2200 elapsed!
+Time 2300 elapsed!
+Time 2400 elapsed!
+Time 2500 elapsed!
+Time 2600 elapsed!
+Time 2700 elapsed!
+Time 2800 elapsed!
+Time 2900 elapsed!
+Time 3000 elapsed!
+Time 3100 elapsed!
+Time 3200 elapsed!
+Time 3300 elapsed!
+Time 3400 elapsed!
+Time 3500 elapsed!
+Time 3600 elapsed!
+Time 3700 elapsed!
+Time 3800 elapsed!
+Time 3900 elapsed!
+Time 4000 elapsed!
+Time 4100 elapsed!
+Time 4200 elapsed!
+Time 4300 elapsed!
+Time 4400 elapsed!
+Time 4500 elapsed!
+Time 4600 elapsed!
+Time 4700 elapsed!
+Time 4800 elapsed!
+Time 4900 elapsed!
+Number of waitings: 52    Avg. waiting time: 0.064952
+Number of waitings: 2    Avg. waiting time: 0.024896
+Number of waitings: 2    Avg. waiting time: 0.0132405
+Number of waitings: 142    Avg. waiting time: 0.073329
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.0140095
+Number of waitings: 32    Avg. waiting time: 0.01519
+Number of waitings: 2    Avg. waiting time: 0.099463
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.0644755
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 80    Avg. waiting time: 0.05561
+Number of waitings: 6    Avg. waiting time: 0.024084
+Number of waitings: 140    Avg. waiting time: 0.088971
+Number of waitings: 18    Avg. waiting time: 0.075435
+Number of waitings: 14    Avg. waiting time: 0.0191175
+Number of waitings: 64    Avg. waiting time: 0.612635
+Number of waitings: 2    Avg. waiting time: 0.046943
+Number of waitings: 12    Avg. waiting time: 0.219132
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.146841
+Number of waitings: 214    Avg. waiting time: 0.0503145
+Number of waitings: 228    Avg. waiting time: 0.0178935
+Number of waitings: 16    Avg. waiting time: 0.169446
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 120    Avg. waiting time: 0.131809
+Number of waitings: 4    Avg. waiting time: 0.054045
+Number of waitings: 60    Avg. waiting time: 0.023912
+Number of waitings: 16    Avg. waiting time: 0.065106
+Number of waitings: 12    Avg. waiting time: 0.0524795
+Number of waitings: 8    Avg. waiting time: 0.209692
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 568    Avg. waiting time: 0.544078
+Number of waitings: 2    Avg. waiting time: 0.15601
+Number of waitings: 8    Avg. waiting time: 0.0791485
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 234    Avg. waiting time: 0.0104915
+Number of waitings: 8    Avg. waiting time: 0.209423
+Number of waitings: 228    Avg. waiting time: 0.0123235
+Number of waitings: 36    Avg. waiting time: 0.0275625
+Number of waitings: 6    Avg. waiting time: 0.019144
+Number of waitings: 2    Avg. waiting time: 0.157059
+Number of waitings: 2    Avg. waiting time: 0.0204455
+Number of waitings: 12    Avg. waiting time: 0.039599
+Number of waitings: 30    Avg. waiting time: 0.017921
+Number of waitings: 10    Avg. waiting time: 0.057516
+Number of waitings: 12    Avg. waiting time: 0.098004
+Number of waitings: 804    Avg. waiting time: 28.9622
+Number of waitings: 2    Avg. waiting time: 0.105753
+Number of waitings: 22    Avg. waiting time: 0.108641
+Number of waitings: 16    Avg. waiting time: 0.635905
+Number of waitings: 20    Avg. waiting time: 0.0241915
+Number of waitings: 6    Avg. waiting time: 0.089558
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.0649545
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 78    Avg. waiting time: 0.0859985
+Number of waitings: 12    Avg. waiting time: 0.0140165
+Number of waitings: 4    Avg. waiting time: 0.0247835
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.0154305
+Number of waitings: 440    Avg. waiting time: 0.567978
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 44    Avg. waiting time: 0.094451
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 124    Avg. waiting time: 0.127085
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0077795
+Number of waitings: 14    Avg. waiting time: 0.030464
+Number of waitings: 706    Avg. waiting time: 0.47677
+Number of waitings: 10    Avg. waiting time: 0.042264
+Number of waitings: 8    Avg. waiting time: 0.039898
+Number of waitings: 12    Avg. waiting time: 0.93492
+Number of waitings: 4    Avg. waiting time: 0.0188115
+Number of waitings: 4    Avg. waiting time: 0.0130915
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.053642
+Number of waitings: 16    Avg. waiting time: 0.026887
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.178287
+Number of waitings: 30    Avg. waiting time: 0.105101
+Number of waitings: 6    Avg. waiting time: 0.016193
+Number of waitings: 40    Avg. waiting time: 2.70005
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 28    Avg. waiting time: 0.0834135
+Number of waitings: 8    Avg. waiting time: 0.132971
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 40    Avg. waiting time: 0.96778
+Number of waitings: 22    Avg. waiting time: 0.0190995
+Number of waitings: 6    Avg. waiting time: 0.195561
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 328    Avg. waiting time: 0.0860442
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.005599
+Number of waitings: 6    Avg. waiting time: 0.0131995
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 32    Avg. waiting time: 0.0195835
+Number of waitings: 42    Avg. waiting time: 0.0299535
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 34    Avg. waiting time: 0.178243
+Number of waitings: 156    Avg. waiting time: 0.0178255
+Number of waitings: 52    Avg. waiting time: 0.0481775
+Number of waitings: 48    Avg. waiting time: 0.402352
+Number of waitings: 52    Avg. waiting time: 2.08179
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 206    Avg. waiting time: 0.0387965
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.0367405
+Number of waitings: 4    Avg. waiting time: 0.011066
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 26    Avg. waiting time: 0.033085
+Number of waitings: 200    Avg. waiting time: 0.0229413
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 110    Avg. waiting time: 0.0299345
+Number of waitings: 16    Avg. waiting time: 0.248355
+Number of waitings: 286    Avg. waiting time: 0.14867
+Number of waitings: 24    Avg. waiting time: 0.104415
+Number of waitings: 186    Avg. waiting time: 0.0621295
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.058045
+Number of waitings: 486    Avg. waiting time: 0.17593
+Number of waitings: 22    Avg. waiting time: 0.0805575
+Number of waitings: 4    Avg. waiting time: 0.0174295
+Number of waitings: 84    Avg. waiting time: 0.0797525
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.0104685
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 22    Avg. waiting time: 0.133869
+Number of waitings: 358    Avg. waiting time: 0.109083
+Number of waitings: 2    Avg. waiting time: 0.0171395
+Number of waitings: 110    Avg. waiting time: 0.13315
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 52    Avg. waiting time: 0.0287405
+Number of waitings: 74    Avg. waiting time: 0.0638255
+Number of waitings: 14    Avg. waiting time: 0.113314
+Number of waitings: 38    Avg. waiting time: 0.233885
+Number of waitings: 10    Avg. waiting time: 0.0801915
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.042316
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.067714
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.032425
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 18    Avg. waiting time: 0.061216
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 106    Avg. waiting time: 1.50562
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 48    Avg. waiting time: 0.94033
+Number of waitings: 306    Avg. waiting time: 0.152451
+Number of waitings: 2    Avg. waiting time: 0.006485
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 16    Avg. waiting time: 0.0560065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 34    Avg. waiting time: 0.079103
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.239319
+Number of waitings: 56    Avg. waiting time: 0.0356065
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.17089
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 44    Avg. waiting time: 0.00744
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.03563
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 78    Avg. waiting time: 0.0222785
+Number of waitings: 16    Avg. waiting time: 0.026462
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 4    Avg. waiting time: 0.163428
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.0080215
+Number of waitings: 14    Avg. waiting time: 0.177498
+Number of waitings: 16    Avg. waiting time: 1.6026
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 58    Avg. waiting time: 0.043342
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 152    Avg. waiting time: 1.39345
+Number of waitings: 912    Avg. waiting time: 27.3131
+Number of waitings: 14    Avg. waiting time: 0.135925
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.12402
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.136741
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.00849
+Number of waitings: 18    Avg. waiting time: 0.0236005
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 20    Avg. waiting time: 0.085165
+Number of waitings: 22    Avg. waiting time: 0.015724
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.034336
+Number of waitings: 1108    Avg. waiting time: 4.90281
+Number of waitings: 34    Avg. waiting time: 0.0559175
+Number of waitings: 68    Avg. waiting time: 0.0138375
+Number of waitings: 6    Avg. waiting time: 0.105417
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.011155
+Number of waitings: 24    Avg. waiting time: 0.0693715
+Number of waitings: 328    Avg. waiting time: 0.0822263
+Number of waitings: 102    Avg. waiting time: 0.013762
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.132894
+Number of waitings: 38    Avg. waiting time: 0.070662
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 50    Avg. waiting time: 0.087352
+Number of waitings: 4    Avg. waiting time: 0.196365
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.0177885
+Number of waitings: 128    Avg. waiting time: 0.14949
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0162465
+Number of waitings: 8    Avg. waiting time: 0.0560615
+Number of waitings: 4    Avg. waiting time: 0.017358
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 148    Avg. waiting time: 0.060732
+Number of waitings: 2    Avg. waiting time: 0.032108
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 14    Avg. waiting time: 0.0245195
+Number of waitings: 8    Avg. waiting time: 0.0291015
+Number of waitings: 60    Avg. waiting time: 0.032557
+Number of waitings: 8    Avg. waiting time: 0.0196545
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.096415
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 12    Avg. waiting time: 0.321785
+Number of waitings: 20    Avg. waiting time: 0.007058
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 78    Avg. waiting time: 0.106634
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 8    Avg. waiting time: 0.197238
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 2    Avg. waiting time: 0.054015
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 30    Avg. waiting time: 0.026691
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.09037
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 206    Avg. waiting time: 0.0154805
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.783865
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 0    Avg. waiting time: -nan
+Number of stations: 300
+Number of run down batteries: 4097
+Average traveling duration: 100.457 minutes
+Average battery difference between start and end: -0.497473
+Average waiting times in charging station: 4.38107 minutes
+Number of vehicles which reached the end: 88256
+Number of vehicles which didn't finish before end of simulation: 1921
+Total number of used charging stations: 173
+Total number of charging stations usage: 12758
+Run down batteries during going to station: 473
+Total number of vehicles which didn't reach the end: 6018
+------------------------------------------------------
+Model loss: 439704
+
+Current loss is: 439704
+-------------------------------------------------
+Best loss is: 404003
+
+Best model info:
+------------------------------------------------------
+Number of stations: 300
+Number of run down batteries: 3740
+Average traveling duration: 100.773
+Average battery difference between start and end: -0.497445
+Average waiting times in charging station: 3.59142
+Number of vehicles which reached the end: 87968
+Number of used stations: 260
+Number of vehicles which didn't finish before end of simulation: 2064
+Total number of used charging stations: 260
+Total number of charging stations usage: 17698
+Total number of vehicles which didn't reach the end: 5804
+------------------------------------------------------
+Model loss: 404003
+

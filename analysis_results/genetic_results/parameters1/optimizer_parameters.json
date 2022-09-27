@@ -1,0 +1,8 @@
+{
+    "geneticPopulatioSize" : [10],
+    "geneticNumGenerations" : [10, 20],
+    "geneticNumBestSelection" : [0, 4],
+    "geneticTournamentSelectionTreshold" : [0.7, 0.9],
+    "geneticMutationTreshold" : [0.0001, 0.001, 0.01],
+    "geneticMemberSizeVariance" : [10]
+}

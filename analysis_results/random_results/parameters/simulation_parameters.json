@@ -1,0 +1,21 @@
+{
+    "simulationTime" : [1000],
+    "segmentLength" : [1],
+    "numClosestStations" : [10],
+    "carConsumption" : [0.001],
+    "numStations" : [300, 500, 1000, 2000, 4000],
+    "stationCapacity" : [1],
+    "exponentialLambdaCities" : [0.005],
+    "exponentialLambdaDepartures" : [1000],
+    "endCityRatio" : [1],
+    "batteryTresholdLambda" : [20],
+    "carBatteryMean" : [0.7],
+    "carBatteryDeviation" : [0.2],
+    "carStartBatteryBottomLimit" : [0.5],
+    "chargingTreshold" : [0.5],
+    "notChargingTreshold" : [0.8],
+    "batteryTolerance" : [0.05],
+    "carVelocity" : [1.5],
+    "chargingWaitingTime" : [5],
+    "meanChargingLevel" : [0.5]
+}

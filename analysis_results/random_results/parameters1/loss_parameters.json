@@ -1,0 +1,7 @@
+{
+    "stationNumberParameter" : [100],
+    "runDownParameter" : [100],
+    "durationParameter" : [0],
+    "batteryDifferenceParameter" : [1],
+    "waitingTimesParameter" : [1]
+}

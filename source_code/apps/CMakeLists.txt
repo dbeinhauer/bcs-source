@@ -1,0 +1,5 @@
+add_executable(Traffic_Simulator main.cpp)
+target_compile_features(Traffic_Simulator PRIVATE cxx_std_17)
+target_compile_options(Traffic_Simulator PRIVATE -Ofast)
+
+target_link_libraries(Traffic_Simulator PRIVATE optimizer Boost::program_options)

@@ -1,0 +1,1 @@
+Station_ID Latitude Longitude Closer_Vertex_ID Further_Vertex_ID Segment_ID NumTotalSegments Capacity

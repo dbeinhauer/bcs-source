@@ -1,0 +1,5 @@
+{
+    "lossDifferenceTreshold" : [100],
+    "greedyMaxIterations" : [5],
+    "greedyNumThrowAway" : [1, 5, 10]
+}

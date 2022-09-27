@@ -1,0 +1,412 @@
+Save prepared is: 0
+Edges: prepared_graph/prepared_edges.txt
+Node City: prepared_graph/prepared_combined_nodes.txt
+Cities: prepared_graph/cities.txt
+Simulation time: 5000
+Length of the edge segment: 1
+Number of closest stations: 1
+Car consumtion: 0.002
+Number of charging stations: 100
+Capacity of the charging station: 4
+Exponential parameter for city distances: 0.01
+Exponential parameter for car departures: 10
+End city distance versus population ratio: 1
+Exponential parameter for battery treshold: 20
+Car battery level mean: 0.9
+Car battery level deviation: 0.2
+Car start battery level bottom limit: 0.5
+Battery treshold to always charge: 0.5
+Battery treshold to never go charging: 0.9
+Battery tolerance level in the end of path: 0.05
+Car velocity: 1
+Waiting time of fully charge: 40
+Estimated mean battery level to charge: 0.5
+Loss difference treshold: 10
+Station number loss parameter: 100
+Battery run down loss parameter: 100
+Travel duration loss parameter: 0.001
+Battery difference loss paramter: 1
+Station waiting time paramter: 1
+Maximal number of iteration for greedy optimization: 5
+Number of station to throw away in greedy optimization: 5
+Size of the population in genetic algorithm: 10
+Number of generations in genetic algorithm: 10
+Number of best to choose automaticaly during selection in genetic algorithm: 2
+Tournament selection probability of the better model choice in genetic algorithm: 0.8
+Probability of mutation of one station in genetic algorithm: 0.01
+Variance of the population size in genetic algorithm: 2
+Number of iteration during one K-Means run: 10
+Number of generations of K-Means stations: 2
+Iteration: 0 Vertices of degree 2 merged and deleted.
+Iteration DONE
+Total number of components: 22
+Total number of components: 22
+Total number of components: 21
+Total number of components: 20
+Total number of components: 19
+Total number of components: 18
+Total number of components: 17
+Total number of components: 16
+Total number of components: 15
+Total number of components: 14
+Total number of components: 13
+Total number of components: 12
+Total number of components: 11
+Total number of components: 10
+Total number of components: 9
+Total number of components: 8
+Total number of components: 7
+Total number of components: 6
+Total number of components: 5
+Total number of components: 4
+Total number of components: 3
+Total number of components: 2
+Total number of components: 1
+Running K-Means algorithm.
+Time 100 elapsed!
+Time 200 elapsed!
+Time 300 elapsed!
+Time 400 elapsed!
+Time 500 elapsed!
+Time 600 elapsed!
+Time 700 elapsed!
+Time 800 elapsed!
+Time 900 elapsed!
+Time 1000 elapsed!
+Time 1100 elapsed!
+Time 1200 elapsed!
+Time 1300 elapsed!
+Time 1400 elapsed!
+Time 1500 elapsed!
+Time 1600 elapsed!
+Time 1700 elapsed!
+Time 1800 elapsed!
+Time 1900 elapsed!
+Time 2000 elapsed!
+Time 2100 elapsed!
+Time 2200 elapsed!
+Time 2300 elapsed!
+Time 2400 elapsed!
+Time 2500 elapsed!
+Time 2600 elapsed!
+Time 2700 elapsed!
+Time 2800 elapsed!
+Time 2900 elapsed!
+Time 3000 elapsed!
+Time 3100 elapsed!
+Time 3200 elapsed!
+Time 3300 elapsed!
+Time 3400 elapsed!
+Time 3500 elapsed!
+Time 3600 elapsed!
+Time 3700 elapsed!
+Time 3800 elapsed!
+Time 3900 elapsed!
+Time 4000 elapsed!
+Time 4100 elapsed!
+Time 4200 elapsed!
+Time 4300 elapsed!
+Time 4400 elapsed!
+Time 4500 elapsed!
+Time 4600 elapsed!
+Time 4700 elapsed!
+Time 4800 elapsed!
+Time 4900 elapsed!
+Number of waitings: 66    Avg. waiting time: 0.205368
+Number of waitings: 14    Avg. waiting time: 0.022168
+Number of waitings: 2    Avg. waiting time: 0.107014
+Number of waitings: 26    Avg. waiting time: 0.129173
+Number of waitings: 22    Avg. waiting time: 0.297088
+Number of waitings: 10    Avg. waiting time: 0.0174085
+Number of waitings: 16    Avg. waiting time: 0.020716
+Number of waitings: 2    Avg. waiting time: 0.0503575
+Number of waitings: 34    Avg. waiting time: 0.0378925
+Number of waitings: 36    Avg. waiting time: 0.035056
+Number of waitings: 144    Avg. waiting time: 0.0073715
+Number of waitings: 16    Avg. waiting time: 0.043828
+Number of waitings: 294    Avg. waiting time: 0.0635835
+Number of waitings: 20    Avg. waiting time: 0.092436
+Number of waitings: 24    Avg. waiting time: 0.026722
+Number of waitings: 236    Avg. waiting time: 0.065514
+Number of waitings: 24    Avg. waiting time: 0.029229
+Number of waitings: 172    Avg. waiting time: 0.0427625
+Number of waitings: 24    Avg. waiting time: 0.0359205
+Number of waitings: 120    Avg. waiting time: 0.005958
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 10    Avg. waiting time: 0.159455
+Number of waitings: 370    Avg. waiting time: 0.0465799
+Number of waitings: 248    Avg. waiting time: 0.048071
+Number of waitings: 44    Avg. waiting time: 0.0079265
+Number of waitings: 4    Avg. waiting time: 0.0166
+Number of waitings: 318    Avg. waiting time: 0.240271
+Number of waitings: 624    Avg. waiting time: 0.835417
+Number of waitings: 4    Avg. waiting time: 0.0656445
+Number of waitings: 144    Avg. waiting time: 0.019012
+Number of waitings: 50    Avg. waiting time: 1.73036
+Number of waitings: 30    Avg. waiting time: 0.019144
+Number of waitings: 18    Avg. waiting time: 0.0125485
+Number of waitings: 6    Avg. waiting time: 0.013101
+Number of waitings: 100    Avg. waiting time: 0.0374705
+Number of waitings: 14    Avg. waiting time: 0.0324395
+Number of waitings: 22    Avg. waiting time: 0.236933
+Number of waitings: 10    Avg. waiting time: 0.031838
+Number of waitings: 92    Avg. waiting time: 0.0360625
+Number of waitings: 8    Avg. waiting time: 0.040832
+Number of waitings: 40    Avg. waiting time: 0.0139065
+Number of waitings: 36    Avg. waiting time: 0.0271385
+Number of waitings: 546    Avg. waiting time: 0.621583
+Number of waitings: 54    Avg. waiting time: 0.201495
+Number of waitings: 8    Avg. waiting time: 3.1571
+Number of waitings: 58    Avg. waiting time: 0.138991
+Number of waitings: 46    Avg. waiting time: 0.0272665
+Number of waitings: 220    Avg. waiting time: 0.111323
+Number of waitings: 124    Avg. waiting time: 0.5688
+Number of waitings: 74    Avg. waiting time: 13.7573
+Number of waitings: 50    Avg. waiting time: 0.124067
+Number of waitings: 122    Avg. waiting time: 7.74726
+Number of waitings: 20    Avg. waiting time: 0.0336915
+Number of waitings: 50    Avg. waiting time: 0.025998
+Number of waitings: 8    Avg. waiting time: 0.06376
+Number of waitings: 338    Avg. waiting time: 4.80896
+Number of waitings: 14    Avg. waiting time: 0.0311155
+Number of waitings: 108    Avg. waiting time: 0.14672
+Number of waitings: 328    Avg. waiting time: 0.135785
+Number of waitings: 34    Avg. waiting time: 0.0140165
+Number of waitings: 16    Avg. waiting time: 1.17968
+Number of waitings: 34    Avg. waiting time: 0.013765
+Number of waitings: 20    Avg. waiting time: 1.57751
+Number of waitings: 4    Avg. waiting time: 0.995857
+Number of waitings: 682    Avg. waiting time: 0.416801
+Number of waitings: 36    Avg. waiting time: 0.0162115
+Number of waitings: 452    Avg. waiting time: 0.199185
+Number of waitings: 54    Avg. waiting time: 0.088645
+Number of waitings: 34    Avg. waiting time: 8.64769
+Number of waitings: 84    Avg. waiting time: 0.150892
+Number of waitings: 292    Avg. waiting time: 10.3333
+Number of waitings: 138    Avg. waiting time: 0.189774
+Number of waitings: 12    Avg. waiting time: 0.0126185
+Number of waitings: 40    Avg. waiting time: 7.18965
+Number of waitings: 718    Avg. waiting time: 4.5052
+Number of waitings: 30    Avg. waiting time: 0.0435955
+Number of waitings: 16    Avg. waiting time: 0.039898
+Number of waitings: 14    Avg. waiting time: 0.021356
+Number of waitings: 10    Avg. waiting time: 0.053158
+Number of waitings: 16    Avg. waiting time: 0.0431725
+Number of waitings: 300    Avg. waiting time: 0.138211
+Number of waitings: 8    Avg. waiting time: 0.053642
+Number of waitings: 68    Avg. waiting time: 0.046526
+Number of waitings: 116    Avg. waiting time: 12.2287
+Number of waitings: 36    Avg. waiting time: 0.0705335
+Number of waitings: 134    Avg. waiting time: 0.028006
+Number of waitings: 10    Avg. waiting time: 0.55315
+Number of waitings: 24    Avg. waiting time: 1.00155
+Number of waitings: 22    Avg. waiting time: 2.69904
+Number of waitings: 60    Avg. waiting time: 0.101102
+Number of waitings: 272    Avg. waiting time: 0.002388
+Number of waitings: 14    Avg. waiting time: 0.0085235
+Number of waitings: 2    Avg. waiting time: 2.57532
+Number of waitings: 70    Avg. waiting time: 0.0653495
+Number of waitings: 90    Avg. waiting time: 0.020782
+Number of waitings: 34    Avg. waiting time: 0.0126715
+Number of waitings: 30    Avg. waiting time: 0.0396095
+Number of waitings: 22    Avg. waiting time: 0.004241
+Number of waitings: 10    Avg. waiting time: 0.0080365
+Number of waitings: 632    Avg. waiting time: 0.582345
+Number of stations: 100
+Number of run down batteries: 4113
+Average traveling duration: 100.06 minutes
+Average battery difference between start and end: -0.497411
+Average waiting times in charging station: 1.37226 minutes
+Number of vehicles which reached the end: 88326
+Number of vehicles which didn't finish before end of simulation: 1864
+Total number of used charging stations: 99
+Total number of charging stations usage: 10352
+Run down batteries during going to station: 513
+Total number of vehicles which didn't reach the end: 5977
+------------------------------------------------------
+Model loss: 421301
+
+Current loss is: 421301
+Time 100 elapsed!
+Time 200 elapsed!
+Time 300 elapsed!
+Time 400 elapsed!
+Time 500 elapsed!
+Time 600 elapsed!
+Time 700 elapsed!
+Time 800 elapsed!
+Time 900 elapsed!
+Time 1000 elapsed!
+Time 1100 elapsed!
+Time 1200 elapsed!
+Time 1300 elapsed!
+Time 1400 elapsed!
+Time 1500 elapsed!
+Time 1600 elapsed!
+Time 1700 elapsed!
+Time 1800 elapsed!
+Time 1900 elapsed!
+Time 2000 elapsed!
+Time 2100 elapsed!
+Time 2200 elapsed!
+Time 2300 elapsed!
+Time 2400 elapsed!
+Time 2500 elapsed!
+Time 2600 elapsed!
+Time 2700 elapsed!
+Time 2800 elapsed!
+Time 2900 elapsed!
+Time 3000 elapsed!
+Time 3100 elapsed!
+Time 3200 elapsed!
+Time 3300 elapsed!
+Time 3400 elapsed!
+Time 3500 elapsed!
+Time 3600 elapsed!
+Time 3700 elapsed!
+Time 3800 elapsed!
+Time 3900 elapsed!
+Time 4000 elapsed!
+Time 4100 elapsed!
+Time 4200 elapsed!
+Time 4300 elapsed!
+Time 4400 elapsed!
+Time 4500 elapsed!
+Time 4600 elapsed!
+Time 4700 elapsed!
+Time 4800 elapsed!
+Time 4900 elapsed!
+Number of waitings: 38    Avg. waiting time: 1.40591
+Number of waitings: 4    Avg. waiting time: 0.0129165
+Number of waitings: 4    Avg. waiting time: 0.0198935
+Number of waitings: 20    Avg. waiting time: 0.160394
+Number of waitings: 6    Avg. waiting time: 0.007969
+Number of waitings: 38    Avg. waiting time: 0.135776
+Number of waitings: 48    Avg. waiting time: 0.049936
+Number of waitings: 4    Avg. waiting time: 0.099463
+Number of waitings: 14    Avg. waiting time: 0.122392
+Number of waitings: 26    Avg. waiting time: 0.0644755
+Number of waitings: 8    Avg. waiting time: 0.248355
+Number of waitings: 22    Avg. waiting time: 0.027761
+Number of waitings: 406    Avg. waiting time: 0.13533
+Number of waitings: 4    Avg. waiting time: 0.130528
+Number of waitings: 52    Avg. waiting time: 0.10101
+Number of waitings: 190    Avg. waiting time: 0.110687
+Number of waitings: 2    Avg. waiting time: 0.177333
+Number of waitings: 178    Avg. waiting time: 0.0387965
+Number of waitings: 16    Avg. waiting time: 0.024726
+Number of waitings: 2    Avg. waiting time: 0.095706
+Number of waitings: 40    Avg. waiting time: 0.150911
+Number of waitings: 20    Avg. waiting time: 0.249369
+Number of waitings: 240    Avg. waiting time: 0.115305
+Number of waitings: 2    Avg. waiting time: 0.051499
+Number of waitings: 48    Avg. waiting time: 0.040453
+Number of waitings: 12    Avg. waiting time: 0.090537
+Number of waitings: 254    Avg. waiting time: 0.0372049
+Number of waitings: 2    Avg. waiting time: 0.017358
+Number of waitings: 40    Avg. waiting time: 0.040698
+Number of waitings: 120    Avg. waiting time: 0.0124
+Number of waitings: 42    Avg. waiting time: 0.0630515
+Number of waitings: 12    Avg. waiting time: 0.122901
+Number of waitings: 32    Avg. waiting time: 0.0369855
+Number of waitings: 12    Avg. waiting time: 0.139895
+Number of waitings: 370    Avg. waiting time: 0.151705
+Number of waitings: 56    Avg. waiting time: 0.064952
+Number of waitings: 12    Avg. waiting time: 0.033458
+Number of waitings: 8    Avg. waiting time: 0.031235
+Number of waitings: 68    Avg. waiting time: 0.009569
+Number of waitings: 18    Avg. waiting time: 0.209423
+Number of waitings: 24    Avg. waiting time: 0.008645
+Number of waitings: 102    Avg. waiting time: 0.0275625
+Number of waitings: 326    Avg. waiting time: 0.144589
+Number of waitings: 2    Avg. waiting time: 0.058045
+Number of waitings: 18    Avg. waiting time: 0.026691
+Number of waitings: 36    Avg. waiting time: 0.0153425
+Number of waitings: 38    Avg. waiting time: 0.017921
+Number of waitings: 290    Avg. waiting time: 0.0657327
+Number of waitings: 48    Avg. waiting time: 0.0591025
+Number of waitings: 16    Avg. waiting time: 0.046473
+Number of waitings: 20    Avg. waiting time: 0.019144
+Number of waitings: 74    Avg. waiting time: 0.0138375
+Number of waitings: 10    Avg. waiting time: 0.022639
+Number of waitings: 74    Avg. waiting time: 0.1821
+Number of waitings: 12    Avg. waiting time: 0.103751
+Number of waitings: 200    Avg. waiting time: 3.24005
+Number of waitings: 2    Avg. waiting time: 0.0649545
+Number of waitings: 28    Avg. waiting time: 0.037758
+Number of waitings: 604    Avg. waiting time: 0.255672
+Number of waitings: 38    Avg. waiting time: 0.0786645
+Number of waitings: 214    Avg. waiting time: 0.094385
+Number of waitings: 8    Avg. waiting time: 0.0184465
+Number of waitings: 28    Avg. waiting time: 0.052704
+Number of waitings: 10    Avg. waiting time: 0.0154305
+Number of waitings: 600    Avg. waiting time: 0.685358
+Number of waitings: 294    Avg. waiting time: 0.035983
+Number of waitings: 462    Avg. waiting time: 0.575286
+Number of waitings: 2    Avg. waiting time: 0.0095205
+Number of waitings: 6    Avg. waiting time: 0.166563
+Number of waitings: 82    Avg. waiting time: 0.0180155
+Number of waitings: 118    Avg. waiting time: 0.026578
+Number of waitings: 0    Avg. waiting time: -nan
+Number of waitings: 6    Avg. waiting time: 0.0077795
+Number of waitings: 58    Avg. waiting time: 0.0275765
+Number of waitings: 690    Avg. waiting time: 0.863047
+Number of waitings: 12    Avg. waiting time: 1.87881
+Number of waitings: 10    Avg. waiting time: 0.0119275
+Number of waitings: 2    Avg. waiting time: 0.93492
+Number of waitings: 4    Avg. waiting time: 0.010232
+Number of waitings: 38    Avg. waiting time: 0.096748
+Number of waitings: 426    Avg. waiting time: 0.0890116
+Number of waitings: 16    Avg. waiting time: 0.007058
+Number of waitings: 92    Avg. waiting time: 1.99128
+Number of waitings: 14    Avg. waiting time: 0.151196
+Number of waitings: 22    Avg. waiting time: 0.223527
+Number of waitings: 138    Avg. waiting time: 1.05153
+Number of waitings: 28    Avg. waiting time: 0.0070815
+Number of waitings: 26    Avg. waiting time: 0.104756
+Number of waitings: 188    Avg. waiting time: 0.0217605
+Number of waitings: 50    Avg. waiting time: 0.0915155
+Number of waitings: 1030    Avg. waiting time: 3.46919
+Number of waitings: 20    Avg. waiting time: 0.128503
+Number of waitings: 2    Avg. waiting time: 0.1501
+Number of waitings: 112    Avg. waiting time: 0.181258
+Number of waitings: 118    Avg. waiting time: 0.167858
+Number of waitings: 32    Avg. waiting time: 0.076887
+Number of waitings: 70    Avg. waiting time: 0.0251775
+Number of waitings: 34    Avg. waiting time: 0.01355
+Number of waitings: 8    Avg. waiting time: 0.015199
+Number of waitings: 624    Avg. waiting time: 2.2841
+Number of stations: 100
+Number of run down batteries: 4225
+Average traveling duration: 100.454 minutes
+Average battery difference between start and end: -0.497451
+Average waiting times in charging station: 0.784158 minutes
+Number of vehicles which reached the end: 87298
+Number of vehicles which didn't finish before end of simulation: 1911
+Total number of used charging stations: 99
+Total number of charging stations usage: 10146
+Run down batteries during going to station: 555
+Total number of vehicles which didn't reach the end: 6136
+------------------------------------------------------
+Model loss: 432500
+
+Current loss is: 432500
+-------------------------------------------------
+Best loss is: 421301
+
+Best model info:
+------------------------------------------------------
+Number of stations: 100
+Number of run down batteries: 4113
+Average traveling duration: 100.06
+Average battery difference between start and end: -0.497411
+Average waiting times in charging station: 1.37226
+Number of vehicles which reached the end: 88326
+Number of used stations: 99
+Number of vehicles which didn't finish before end of simulation: 1864
+Total number of used charging stations: 99
+Total number of charging stations usage: 10352
+Total number of vehicles which didn't reach the end: 5977
+------------------------------------------------------
+Model loss: 421301
+

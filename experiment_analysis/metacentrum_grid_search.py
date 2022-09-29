@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+"""
+Prepares scripts for metacentrum to run specified experiments.
+Program also provides possibility to analyze results of the experiments
+and write results in the organized structure.
+"""
 
 import sys
 import itertools
@@ -12,50 +17,90 @@ from tabulate import tabulate
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument("--simulationParamFile", default="simulation_parameters.json", 
-    type=str, help="Filename of the simulation parameters")
-parser.add_argument("--lossParamFile", default="loss_parameters.json", 
-    type=str, help="Filename of the loss parameters")
-parser.add_argument("--optimizerParamFile", default="optimizer_parameters.json", 
-    type=str, help="Filename of the optimizer parameters")
+# Files of the simulation parameters:
+parser.add_argument("--simulationParamFile", 
+    default="simulation_parameters.json", 
+    type=str,
+    help="Filename of the simulation parameters")
+parser.add_argument("--lossParamFile",
+    default="loss_parameters.json", 
+    type=str,
+    help="Filename of the loss parameters")
+parser.add_argument("--optimizerParamFile",
+    default="optimizer_parameters.json", 
+    type=str, 
+    help="Filename of the optimizer parameters")
 
-parser.add_argument("--jobPrefix", default="trafficSimulator_", 
-    type=str, help="Prefix of the job name.")
-parser.add_argument("--outputFilePrefix", default="trafficSimulator_output_", 
-    type=str, help="Prefix of the job name.")
-parser.add_argument("--outputDir", default="prepared_commands/", 
-    type=str, help="Output directory of the commands.")
-parser.add_argument("--resourceSelection", default="select=1:ncpus=4:mem=8gb:scratch_local=30gb", 
-    type=str, help="What resources ask for the job.")
-parser.add_argument("--walltime", default="walltime=12:00:00",
-    type=str, help="How long should the job last.")
-parser.add_argument("--dataDir", default="/storage/praha1/home/$(whoami)", 
-    type=str, help="What is the data directory.")
-parser.add_argument("--copyCommand", default="-r $DATADIR/Traffic_Simulator/*",
-    type=str, help="What files copy to scratch directory.")
-parser.add_argument("--optimizer", default="randomModels", 
-    type=str, help="Which optimizer choose (`randomModels`, `greedy`, `genetic`, `kMeans`)")
-parser.add_argument("--programOutputPath", default="$DATADIR/Simulator_outputs", 
-    type=str, help="Where the output of the program will be stored.")
-# parser.add_argument("--saveBest", default=False, 
-#     type=bool, help="Whether save the best model to file.")
+# Parameters for Metacentrum jobs preparation:
+parser.add_argument("--jobPrefix", 
+    default="trafficSimulator_", 
+    type=str, 
+    help="Prefix of the job name.")
+parser.add_argument("--outputFilePrefix", 
+    default="trafficSimulator_output_", 
+    type=str, 
+    help="Prefix of the job name.")
+parser.add_argument("--outputDir", 
+    default="prepared_commands/", 
+    type=str, 
+    help="Output directory of the commands.")
+parser.add_argument("--resourceSelection", 
+    default="select=1:ncpus=4:mem=8gb:scratch_local=30gb", 
+    type=str, 
+    help="What resources ask for the job.")
+parser.add_argument("--walltime", 
+    default="walltime=12:00:00",
+    type=str, 
+    help="How long should the job last.")
+parser.add_argument("--dataDir", 
+    default="/storage/praha1/home/$(whoami)", 
+    type=str, 
+    help="What is the data directory.")
+parser.add_argument("--copyCommand", 
+    default="-r $DATADIR/Traffic_Simulator/*",
+    type=str, 
+    help="What files copy to scratch directory.")
+parser.add_argument("--optimizer", 
+    default="randomModels", 
+    type=str, 
+    help="Which optimizer choose (`randomModels`, `greedy`, `genetic`, `kMeans`)")
+parser.add_argument("--programOutputPath", 
+    default="$DATADIR/Simulator_outputs", 
+    type=str, 
+    help="Where the output of the program will be stored.")
 
-parser.add_argument("--repeatCommand", default=False, 
-    type=bool, help="Whether to create same command multiple times (for statistical research).")
-parser.add_argument("--repeatNum", default=10,
-    type=int, help="Number of repetitions of the same command creation.")
+# Parameters for repeated command execution:
+parser.add_argument("--repeatCommand", 
+    default=False, 
+    type=bool, 
+    help="Whether to create same command multiple times (for statistical research).")
+parser.add_argument("--repeatNum", 
+    default=10,
+    type=int, 
+    help="Number of repetitions of the same command creation.")
 
-parser.add_argument("--writeResults", default=False, 
-    type=bool, help="Whether write grid search results.")
-parser.add_argument("--inputResults", default="Simulator_outputs/correct_outputs.txt", 
-    type=str, help="Input file with the results.")
-parser.add_argument("--rigitParameters", nargs='+', type=str, 
+# 
+parser.add_argument("--writeResults", 
+    default=False, 
+    type=bool, 
+    help="Whether write grid search results.")
+parser.add_argument("--inputResults", 
+    default="Simulator_outputs/correct_outputs.txt", 
+    type=str, 
+    help="Input file with the results.")
+parser.add_argument("--rigitParameters", 
+    nargs='+', 
+    type=str, 
     help="Specify some rigit parameters which we are interested in\
          (we expect all values are also specified in `rigitValues`).")
-parser.add_argument("--rigitValues", nargs='+', type=str, 
+parser.add_argument("--rigitValues", 
+    nargs='+', 
+    type=str, 
     help="Values of the specified rigit parameters.(in the same order as `rigitParameters`).")
-parser.add_argument("--sortBy", default="bestLoss", type=str,
-        help="By which parameter sort the results.")
+parser.add_argument("--sortBy", 
+    default="bestLoss", 
+    type=str,
+    help="By which parameter sort the results.")
 
 
 # String constants:

@@ -1,3 +1,26 @@
+# About
+This directory contains program `metacentrum_grid_search.py` which prepares bash scripts that are 
+used to run jobs with experiments on [Metacentrum](https://metavo.metacentrum.cz/). The program also
+provides functionality to display overview of the experiment results.
+
+Program `result_extractor.py` is used to prepare plots of the experiment results.
+
+
+# Metacentrum Jobs Preparation
+In order to prepare bash scripts which executes experiments as jobs on 
+[Metacentrum](https://metavo.metacentrum.cz/) we use the program 
+`metacentrum_grid_search.py` with flag `--writeResults` set to `False`.
+
+## Simulator Parameters
+Program reads parameters of the simulator for the experiments from the JSON files.
+Keys are simulator parameters, values are arrays of all possible values of the parameter.
+
+Simulator parameters should be splitted into 3 files by its purpose, these files are specified
+by corresponding switch of the program (use `--help` switch for more info). Though it is not
+neccesary to split the parameter we strongly recommend doing so. To see how to correctly
+write parameters files see arbitrary `JSON` file from `analysis_results/results`
+(see [here](https://github.com/dbeinhauer/bcs-source/tree/main/analysis_results/results)).
+
 # Příprava úloh metacentra a analýza výsledků simulací
 
 Adresář obsahuje pomocný program pro přípravu úloh metacentra pro

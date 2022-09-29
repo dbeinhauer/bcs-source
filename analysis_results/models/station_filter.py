@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Script to filter all used charging stations 
-and to write them to the stdin.
+Filters all used charging stations and to write them to the stdin.
 """
 
 import argparse

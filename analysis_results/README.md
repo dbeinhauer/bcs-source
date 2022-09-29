@@ -1,10 +1,14 @@
 # About
-This directory is composed of `results/` subdirectory which contains organized system of `JSON` files which specify 
-parameter choice for the experiments and `.txt` files with results of the 
-experiments. Subdirectory `plots/` contains plots of the 
-choosen results (note that the plots are in Czech) and subdirectory 
-`models/` contains `.txt` files with choosen model 
-descriptions and simple Python program for filtering the used stations.
+This directory is composed of `results/` subdirectory which contains organized system 
+of `JSON` files which specify parameter choice for the experiments and `.txt` 
+files with results of the experiments. 
+
+Subdirectory `plots/` contains plots of the choosen results (note that the plots 
+are in Czech).
+
+Subdirectory `models/` contains `.txt` files with choosen model descriptions and simple
+Python program for filtering the used stations.
+
 
 # Organization of Results Subdirectory
 Subdirectory `analysis_results/results/` contains for each used optimizer 

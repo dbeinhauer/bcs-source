@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 
-from inspect import GEN_CLOSED
-from turtle import color
-from unittest import result
 import matplotlib
 import matplotlib.pyplot as plt
 
